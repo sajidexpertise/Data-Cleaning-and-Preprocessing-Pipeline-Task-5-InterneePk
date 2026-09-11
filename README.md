@@ -7,7 +7,7 @@
 **Location:** Sindh, Pakistan  
 **Portfolio:** https://sajidexpertise.vercel.app/  
 **LinkedIn:** https://www.linkedin.com/in/sajidexpertise  
-**GitHub:** https://github.com/sajidexpertise
+**Live Dashboard:**  https://sajidexpertise.github.io/Data-Cleaning-and-Preprocessing-Pipeline-Task-5-InterneePk/
 
 ---
 
@@ -23,6 +23,12 @@ The cleaning workflow follows the Task 5 requirements:
 - standardize inconsistent text, categories, contact fields, skills, and URLs;
 - restructure the data for reliable downstream analysis;
 - automate the workflow using **Python and Pandas**.
+
+- ## Dashboard Preview
+
+<p align="center">
+  <img src="outputs/dashboard-screenshot.png" alt="Fraud Detection in Applications - Task 4 Dashboard" width="100%">
+</p>
 
 ## Why Python (Pandas)?
 
