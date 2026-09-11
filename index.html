@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Internee.pk Task 5 - Data Cleaning & Preprocessing dashboard by Sajid Ali." />
+  <title>Task 5 | Data Cleaning & Preprocessing | Sajid Ali</title>
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand"><div class="brand-mark">◈</div><div><strong>InternLytics</strong><small>From Applications to Opportunities</small></div></div>
+    <div class="task-chip">TASK 5</div>
+    <nav id="sideNav">
+      <button class="nav-item active" data-view="overview"><span>◫</span>Overview</button>
+      <button class="nav-item" data-view="profiling"><span>▥</span>Profiling</button>
+      <button class="nav-item" data-view="missing"><span>◩</span>Missing Values</button>
+      <button class="nav-item" data-view="duplicates"><span>⬡</span>Duplicates</button>
+      <button class="nav-item" data-view="outliers"><span>⌁</span>Outliers</button>
+      <button class="nav-item" data-view="standardization"><span>☷</span>Standardization</button>
+      <button class="nav-item" data-view="rules"><span>✓</span>Quality Rules</button>
+      <button class="nav-item" data-view="dataset"><span>▤</span>Clean Dataset</button>
+      <button class="nav-item" data-view="reports"><span>▧</span>Reports</button>
+    </nav>
+    <div class="side-footer">
+      <div class="mini-graph"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      <h3>Better Data<br/>Brighter Talent</h3><p>Clean. Transform. Empower.</p><small>v1.0.0</small>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="Toggle menu">☰</button>
+      <div class="global-search"><span>⌕</span><input id="globalSearch" placeholder="Search records, columns, or issues..."/><kbd>Ctrl K</kbd></div>
+      <div class="top-actions">
+        <button class="icon-btn" id="themeBtn" title="Toggle day/night view"><span id="themeIcon">☾</span></button>
+        <button class="icon-btn" title="Notifications">♢</button>
+        <div class="avatar">SA</div><div class="user"><b>Sajid Ali</b><small>Data Analyst Intern</small></div>
+      </div>
+    </header>
+
+    <section class="page-head">
+      <div><h1>Data Cleaning &amp; Preprocessing</h1><p>Ensure data accuracy by cleaning and transforming internship application data.</p></div>
+      <div class="updated"><span>● Last updated</span><b>Sep 10, 2026</b><small>“Clean data. Brighter opportunities.”</small></div>
+    </section>
+
+    <section class="filterbar" aria-label="Dashboard filters">
+      <label>Date Range<div class="control date-range"><input type="date" id="dateFrom" value="2025-03-01"><span>→</span><input type="date" id="dateTo" value="2025-04-29"></div></label>
+      <label>Department<select id="departmentFilter"><option>All Departments</option></select></label>
+      <label>City<select id="cityFilter"><option>All Cities</option></select></label>
+      <label>Education Level<select id="educationFilter"><option>All Levels</option></select></label>
+      <label>Skill / Keyword<input id="skillFilter" placeholder="e.g. Python, Excel, SQL" /></label>
+      <button class="primary" id="applyFilters">Apply Filters</button><button id="resetFilters">Reset Filters</button>
+    </section>
+
+    <section id="content"></section>
+
+    <footer>Internee.pk Data Analyst Internship · Task 5 · Sajid Ali <span>Clean Data Today, Brighter Internships Tomorrow.</span></footer>
+  </main>
+</div>
+
+<div class="toast" id="toast"></div>
+<div class="modal-backdrop" id="modalBackdrop"><div class="modal"><button class="modal-close" id="modalClose">×</button><div id="modalContent"></div></div></div>
+<script src="src/data.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>

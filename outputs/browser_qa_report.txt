@@ -1,0 +1,31 @@
+[PASS] Page title
+[PASS] Default theme is dark
+[PASS] Six KPI cards render
+[PASS] Pipeline has seven steps
+[PASS] Calendar heatmap cells render - 60
+[PASS] Data-flow and boxplot SVGs render - 2
+[PASS] Treemap renders
+[PASS] Department filter updates KPI - 900->276
+[PASS] Reset restores raw count
+[PASS] Theme toggle works
+[PASS] Dark theme can be restored
+[PASS] Navigation: profiling
+[PASS] Navigation: missing
+[PASS] Navigation: duplicates
+[PASS] Navigation: outliers
+[PASS] Navigation: standardization
+[PASS] Navigation: rules
+[PASS] Navigation: dataset
+[PASS] Navigation: reports
+[PASS] Navigation: overview
+[PASS] Dataset shows 25 rows on first page - 25
+[PASS] Dataset sorting control works
+[PASS] Record detail modal opens
+[PASS] Record detail modal closes
+[PASS] Filtered CSV download works - task5_cleaned_filtered.csv
+[PASS] Export Report button triggers print
+[PASS] Mobile has no horizontal page overflow - False
+[PASS] Mobile menu button visible
+[PASS] No JavaScript console errors
+
+Result: 29/29 browser checks passed

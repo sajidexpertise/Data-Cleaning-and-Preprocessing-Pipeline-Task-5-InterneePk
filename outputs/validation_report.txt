@@ -1,0 +1,16 @@
+[PASS] Raw row count - 900 rows
+[PASS] Clean row count - 860 rows
+[PASS] Duplicates removed - 40 removed
+[PASS] Required fields complete
+[PASS] Duplicate identities removed
+[PASS] Age range
+[PASS] CGPA range
+[PASS] Experience range
+[PASS] Stipend range
+[PASS] Emails standardized
+[PASS] Dashboard file exists
+[PASS] Dashboard data exists
+[PASS] README exists
+[PASS] Excel workbook exists
+
+Result: 14/14 checks passed

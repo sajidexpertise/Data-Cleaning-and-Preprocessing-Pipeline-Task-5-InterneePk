@@ -1,0 +1,947 @@
+application_id,field,original_value,cleaned_value,issue_type,action
+INT-20010,applicant_name,iqra soomro,Iqra Soomro,Text formatting,Trimmed and title-cased
+INT-20011,applicant_name,noor siddiqui,Noor Siddiqui,Text formatting,Trimmed and title-cased
+INT-20005,applicant_name,ahsan memon,Ahsan Memon,Text formatting,Trimmed and title-cased
+INT-20037,applicant_name,hamza mirza,Hamza Mirza,Text formatting,Trimmed and title-cased
+INT-10502,applicant_name,zara siddiqui,Zara Siddiqui,Text formatting,Trimmed and title-cased
+INT-20018,applicant_name,zara ali,Zara Ali,Text formatting,Trimmed and title-cased
+INT-20035,applicant_name,  eman rind ,Eman Rind,Text formatting,Trimmed and title-cased
+INT-10571,applicant_name,AREEBA BHATTI,Areeba Bhatti,Text formatting,Trimmed and title-cased
+INT-20034,applicant_name,usman ansari,Usman Ansari,Text formatting,Trimmed and title-cased
+INT-10730,applicant_name,  Saad Jatoi ,Saad Jatoi,Text formatting,Trimmed and title-cased
+INT-10666,applicant_name,yasir ansari,Yasir Ansari,Text formatting,Trimmed and title-cased
+INT-20024,applicant_name,iqra qureshi,Iqra Qureshi,Text formatting,Trimmed and title-cased
+INT-20003,applicant_name,shayan ahmed,Shayan Ahmed,Text formatting,Trimmed and title-cased
+INT-10763,applicant_name,  Fatima Chandio ,Fatima Chandio,Text formatting,Trimmed and title-cased
+INT-10707,applicant_name,AREEBA RAJPUT,Areeba Rajput,Text formatting,Trimmed and title-cased
+INT-20002,applicant_name,hamza khan,Hamza Khan,Text formatting,Trimmed and title-cased
+INT-20016,applicant_name,bilal ali,Bilal Ali,Text formatting,Trimmed and title-cased
+INT-20014,applicant_name,hussain ansari,Hussain Ansari,Text formatting,Trimmed and title-cased
+INT-20007,applicant_name,iqra syed,Iqra Syed,Text formatting,Trimmed and title-cased
+INT-20020,applicant_name,talha siddiqui,Talha Siddiqui,Text formatting,Trimmed and title-cased
+INT-20004,applicant_name,sajid shaikh,Sajid Shaikh,Text formatting,Trimmed and title-cased
+INT-10475,applicant_name,HIRA ALI,Hira Ali,Text formatting,Trimmed and title-cased
+INT-20019,applicant_name,talha soomro,Talha Soomro,Text formatting,Trimmed and title-cased
+INT-10026,applicant_name,sana syed,Sana Syed,Text formatting,Trimmed and title-cased
+INT-10697,applicant_name,danish bhatti,Danish Bhatti,Text formatting,Trimmed and title-cased
+INT-10011,applicant_name,AHSAN ALI,Ahsan Ali,Text formatting,Trimmed and title-cased
+INT-20039,applicant_name,laiba khan,Laiba Khan,Text formatting,Trimmed and title-cased
+INT-10783,applicant_name,MUHAMMAD ALI,Muhammad Ali,Text formatting,Trimmed and title-cased
+INT-10516,applicant_name,MUHAMMAD AHMED,Muhammad Ahmed,Text formatting,Trimmed and title-cased
+INT-20029,applicant_name,hamza syed,Hamza Syed,Text formatting,Trimmed and title-cased
+INT-20013,applicant_name,iqra siddiqui,Iqra Siddiqui,Text formatting,Trimmed and title-cased
+INT-10832,applicant_name,eman ahmed,Eman Ahmed,Text formatting,Trimmed and title-cased
+INT-10071,applicant_name,DANISH RAJPUT,Danish Rajput,Text formatting,Trimmed and title-cased
+INT-10746,applicant_name,HUSSAIN SHAH,Hussain Shah,Text formatting,Trimmed and title-cased
+INT-10673,applicant_name,SHAYAN SHAH,Shayan Shah,Text formatting,Trimmed and title-cased
+INT-10797,applicant_name,  Sana Chandio ,Sana Chandio,Text formatting,Trimmed and title-cased
+INT-10732,applicant_name,NOOR RIND,Noor Rind,Text formatting,Trimmed and title-cased
+INT-10018,applicant_name,  Ali Mirza ,Ali Mirza,Text formatting,Trimmed and title-cased
+INT-10008,applicant_name,iqra memon,Iqra Memon,Text formatting,Trimmed and title-cased
+INT-10682,applicant_name,mariam abbasi,Mariam Abbasi,Text formatting,Trimmed and title-cased
+INT-10159,applicant_name,SAAD SHAH,Saad Shah,Text formatting,Trimmed and title-cased
+INT-10301,applicant_name,zara ali,Zara Ali,Text formatting,Trimmed and title-cased
+INT-20026,applicant_name,sana bhatti,Sana Bhatti,Text formatting,Trimmed and title-cased
+INT-20009,applicant_name,saad ahmed,Saad Ahmed,Text formatting,Trimmed and title-cased
+INT-20032,applicant_name,mahnoor siddiqui,Mahnoor Siddiqui,Text formatting,Trimmed and title-cased
+INT-10304,applicant_name,muhammad memon,Muhammad Memon,Text formatting,Trimmed and title-cased
+INT-10316,applicant_name,  Ahsan Chandio ,Ahsan Chandio,Text formatting,Trimmed and title-cased
+INT-10464,applicant_name,  Hira Siddiqui ,Hira Siddiqui,Text formatting,Trimmed and title-cased
+INT-10114,applicant_name,ALI SOOMRO,Ali Soomro,Text formatting,Trimmed and title-cased
+INT-10201,applicant_name,  Eman Rind ,Eman Rind,Text formatting,Trimmed and title-cased
+INT-10841,applicant_name,sajid khan,Sajid Khan,Text formatting,Trimmed and title-cased
+INT-10049,applicant_name,MARIAM QURESHI,Mariam Qureshi,Text formatting,Trimmed and title-cased
+INT-10198,applicant_name,areeba soomro,Areeba Soomro,Text formatting,Trimmed and title-cased
+INT-10352,applicant_name,  Bilal Mirza ,Bilal Mirza,Text formatting,Trimmed and title-cased
+INT-10152,applicant_name,IQRA JATOI,Iqra Jatoi,Text formatting,Trimmed and title-cased
+INT-20008,applicant_name,ahsan qureshi,Ahsan Qureshi,Text formatting,Trimmed and title-cased
+INT-20025,applicant_name,shayan jatoi,Shayan Jatoi,Text formatting,Trimmed and title-cased
+INT-10442,applicant_name,  Eman Ahmed ,Eman Ahmed,Text formatting,Trimmed and title-cased
+INT-10676,applicant_name,  Muhammad Siddiqui ,Muhammad Siddiqui,Text formatting,Trimmed and title-cased
+INT-10703,applicant_name,  Hussain Syed ,Hussain Syed,Text formatting,Trimmed and title-cased
+INT-10263,applicant_name,SIDRA MEMON,Sidra Memon,Text formatting,Trimmed and title-cased
+INT-20017,applicant_name,mariam shah,Mariam Shah,Text formatting,Trimmed and title-cased
+INT-10025,applicant_name,NIMRA ALI,Nimra Ali,Text formatting,Trimmed and title-cased
+INT-20036,applicant_name,hira shah,Hira Shah,Text formatting,Trimmed and title-cased
+INT-10739,applicant_name,TALHA SYED,Talha Syed,Text formatting,Trimmed and title-cased
+INT-10190,applicant_name,nimra siddiqui,Nimra Siddiqui,Text formatting,Trimmed and title-cased
+INT-20021,applicant_name,ali ansari,Ali Ansari,Text formatting,Trimmed and title-cased
+INT-20031,applicant_name,sana chandio,Sana Chandio,Text formatting,Trimmed and title-cased
+INT-20033,applicant_name,muhammad khan,Muhammad Khan,Text formatting,Trimmed and title-cased
+INT-10130,applicant_name,  Hira Malik ,Hira Malik,Text formatting,Trimmed and title-cased
+INT-20006,applicant_name,talha ali,Talha Ali,Text formatting,Trimmed and title-cased
+INT-10852,applicant_name,farhan ansari,Farhan Ansari,Text formatting,Trimmed and title-cased
+INT-20028,applicant_name,nimra syed,Nimra Syed,Text formatting,Trimmed and title-cased
+INT-20012,applicant_name,talha ali,Talha Ali,Text formatting,Trimmed and title-cased
+INT-10122,applicant_name,farhan shaikh,Farhan Shaikh,Text formatting,Trimmed and title-cased
+INT-20022,applicant_name,yasir ansari,Yasir Ansari,Text formatting,Trimmed and title-cased
+INT-20040,applicant_name,iqra bhatti,Iqra Bhatti,Text formatting,Trimmed and title-cased
+INT-20023,applicant_name,hamza ali,Hamza Ali,Text formatting,Trimmed and title-cased
+INT-10513,applicant_name,hamza rind,Hamza Rind,Text formatting,Trimmed and title-cased
+INT-10398,applicant_name,eman malik,Eman Malik,Text formatting,Trimmed and title-cased
+INT-10027,applicant_name,laiba ansari,Laiba Ansari,Text formatting,Trimmed and title-cased
+INT-10770,applicant_name,NIMRA RAJPUT,Nimra Rajput,Text formatting,Trimmed and title-cased
+INT-10151,applicant_name,  Ahsan Rajput ,Ahsan Rajput,Text formatting,Trimmed and title-cased
+INT-20030,applicant_name,mahnoor siddiqui,Mahnoor Siddiqui,Text formatting,Trimmed and title-cased
+INT-20038,applicant_name,ahsan siddiqui,Ahsan Siddiqui,Text formatting,Trimmed and title-cased
+INT-20015,applicant_name,mahnoor malik,Mahnoor Malik,Text formatting,Trimmed and title-cased
+INT-10765,applicant_name,  Zain Baloch ,Zain Baloch,Text formatting,Trimmed and title-cased
+INT-10214,applicant_name,  Sana Ali ,Sana Ali,Text formatting,Trimmed and title-cased
+INT-10793,applicant_name,MUHAMMAD KHAN,Muhammad Khan,Text formatting,Trimmed and title-cased
+INT-20001,applicant_name,ali chandio,Ali Chandio,Text formatting,Trimmed and title-cased
+INT-10454,applicant_name,  Ahsan Jatoi ,Ahsan Jatoi,Text formatting,Trimmed and title-cased
+INT-20027,applicant_name,laiba rajput,Laiba Rajput,Text formatting,Trimmed and title-cased
+INT-10361,applicant_name,  Sajid Memon ,Sajid Memon,Text formatting,Trimmed and title-cased
+INT-10754,applicant_name,  Shayan Abbasi ,Shayan Abbasi,Text formatting,Trimmed and title-cased
+INT-10354,applicant_name,  Nimra Bhatti ,Nimra Bhatti,Text formatting,Trimmed and title-cased
+INT-10024,email,NOOR.MALIK24@YAHOO.COM,noor.malik24@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20010,email,IQRA.SOOMRO846@OUTLOOK.COM,iqra.soomro846@outlook.com,Email formatting,Lowercased and trimmed
+INT-10233,email,ALI.RAJPUT233@OUTLOOK.COM,ali.rajput233@outlook.com,Email formatting,Lowercased and trimmed
+INT-20011,email,NOOR.SIDDIQUI83@YAHOO.COM,noor.siddiqui83@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10623,email,HAMZA.MIRZA623@ICLOUD.COM,hamza.mirza623@icloud.com,Email formatting,Lowercased and trimmed
+INT-20005,email, AHSAN.MEMON669@OUTLOOK.COM ,ahsan.memon669@outlook.com,Email formatting,Lowercased and trimmed
+INT-10743,email, hamza.abbasi743@gmail.com ,hamza.abbasi743@gmail.com,Email formatting,Lowercased and trimmed
+INT-20037,email,HAMZA.MIRZA441@GMAIL.COM,hamza.mirza441@gmail.com,Email formatting,Lowercased and trimmed
+INT-10794,email, bilal.abbasi794@outlook.com ,bilal.abbasi794@outlook.com,Email formatting,Lowercased and trimmed
+INT-20018,email,ZARA.ALI317@ICLOUD.COM,zara.ali317@icloud.com,Email formatting,Lowercased and trimmed
+INT-10694,email,MUHAMMAD.SOOMRO694@GMAIL.COM,muhammad.soomro694@gmail.com,Email formatting,Lowercased and trimmed
+INT-20035,email,EMAN.RIND201@ICLOUD.COM,eman.rind201@icloud.com,Email formatting,Lowercased and trimmed
+INT-10814,email, sajid.ansari814@outlook.com ,sajid.ansari814@outlook.com,Email formatting,Lowercased and trimmed
+INT-20034,email,USMAN.ANSARI175@ICLOUD.COM,usman.ansari175@icloud.com,Email formatting,Lowercased and trimmed
+INT-20024,email,IQRA.QURESHI247@GMAIL.COM,iqra.qureshi247@gmail.com,Email formatting,Lowercased and trimmed
+INT-20003,email,SHAYAN.AHMED779@GMAIL.COM,shayan.ahmed779@gmail.com,Email formatting,Lowercased and trimmed
+INT-20002,email,HAMZA.KHAN603@ICLOUD.COM,hamza.khan603@icloud.com,Email formatting,Lowercased and trimmed
+INT-20016,email,BILAL.ALI485@OUTLOOK.COM,bilal.ali485@outlook.com,Email formatting,Lowercased and trimmed
+INT-20014,email, HUSSAIN.ANSARI296@GMAIL.COM ,hussain.ansari296@gmail.com,Email formatting,Lowercased and trimmed
+INT-10231,email,USMAN.MIRZA231@GMAIL.COM,usman.mirza231@gmail.com,Email formatting,Lowercased and trimmed
+INT-20007,email,IQRA.SYED729@YAHOO.COM,iqra.syed729@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20020,email,TALHA.SIDDIQUI736@YAHOO.COM,talha.siddiqui736@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10851,email,SANA.ALI851@YAHOO.COM,sana.ali851@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20004,email,SAJID.SHAIKH457@GMAIL.COM,sajid.shaikh457@gmail.com,Email formatting,Lowercased and trimmed
+INT-10380,email,DANISH.RIND380@OUTLOOK.COM,danish.rind380@outlook.com,Email formatting,Lowercased and trimmed
+INT-20019,email,TALHA.SOOMRO133@YAHOO.COM,talha.soomro133@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10572,email,ZAIN.BHATTI572@ICLOUD.COM,zain.bhatti572@icloud.com,Email formatting,Lowercased and trimmed
+INT-10547,email, iqra.bhatti547@outlook.com ,iqra.bhatti547@outlook.com,Email formatting,Lowercased and trimmed
+INT-10817,email,HAMZA.RIND817@GMAIL.COM,hamza.rind817@gmail.com,Email formatting,Lowercased and trimmed
+INT-10296,email, hussain.ansari296@gmail.com ,hussain.ansari296@gmail.com,Email formatting,Lowercased and trimmed
+INT-10399,email,TALHA.BALOCH399@YAHOO.COM,talha.baloch399@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20039,email,LAIBA.KHAN525@OUTLOOK.COM,laiba.khan525@outlook.com,Email formatting,Lowercased and trimmed
+INT-20029,email,HAMZA.SYED302@YAHOO.COM,hamza.syed302@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20013,email,IQRA.SIDDIQUI208@OUTLOOK.COM,iqra.siddiqui208@outlook.com,Email formatting,Lowercased and trimmed
+INT-10102,email, usman.shaikh102@outlook.com ,usman.shaikh102@outlook.com,Email formatting,Lowercased and trimmed
+INT-10235,email,SANA.RIND235@YAHOO.COM,sana.rind235@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10446,email,MAHNOOR.SHAIKH446@OUTLOOK.COM,mahnoor.shaikh446@outlook.com,Email formatting,Lowercased and trimmed
+INT-10700,email, mahnoor.bhatti700@yahoo.com ,mahnoor.bhatti700@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10732,email,NOOR.RIND732@ICLOUD.COM,noor.rind732@icloud.com,Email formatting,Lowercased and trimmed
+INT-10239,email,SAAD.RAJPUT239@ICLOUD.COM,saad.rajput239@icloud.com,Email formatting,Lowercased and trimmed
+INT-10460,email, hussain.ahmed460@outlook.com ,hussain.ahmed460@outlook.com,Email formatting,Lowercased and trimmed
+INT-10741,email, mariam.mirza741@gmail.com ,mariam.mirza741@gmail.com,Email formatting,Lowercased and trimmed
+INT-20026,email,SANA.BHATTI173@YAHOO.COM,sana.bhatti173@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20009,email,SAAD.AHMED293@ICLOUD.COM,saad.ahmed293@icloud.com,Email formatting,Lowercased and trimmed
+INT-10073,email,SHAYAN.MIRZA73@ICLOUD.COM,shayan.mirza73@icloud.com,Email formatting,Lowercased and trimmed
+INT-20032,email,MAHNOOR.SIDDIQUI319@ICLOUD.COM,mahnoor.siddiqui319@icloud.com,Email formatting,Lowercased and trimmed
+INT-10798,email, muhammad.siddiqui798@icloud.com ,muhammad.siddiqui798@icloud.com,Email formatting,Lowercased and trimmed
+INT-10841,email, sajid.khan841@icloud.com ,sajid.khan841@icloud.com,Email formatting,Lowercased and trimmed
+INT-10303,email,HUSSAIN.SIDDIQUI303@GMAIL.COM,hussain.siddiqui303@gmail.com,Email formatting,Lowercased and trimmed
+INT-20008,email,AHSAN.QURESHI86@GMAIL.COM,ahsan.qureshi86@gmail.com,Email formatting,Lowercased and trimmed
+INT-20025,email,SHAYAN.JATOI181@ICLOUD.COM,shayan.jatoi181@icloud.com,Email formatting,Lowercased and trimmed
+INT-10498,email, zain.shah498@yahoo.com ,zain.shah498@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10609,email,SHAYAN.SIDDIQUI609@ICLOUD.COM,shayan.siddiqui609@icloud.com,Email formatting,Lowercased and trimmed
+INT-10574,email, noor.jatoi574@icloud.com ,noor.jatoi574@icloud.com,Email formatting,Lowercased and trimmed
+INT-10107,email,LAIBA.SHAH107@GMAIL.COM,laiba.shah107@gmail.com,Email formatting,Lowercased and trimmed
+INT-10348,email, zain.malik348@yahoo.com ,zain.malik348@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20017,email,MARIAM.SHAH279@GMAIL.COM,mariam.shah279@gmail.com,Email formatting,Lowercased and trimmed
+INT-20036,email,HIRA.SHAH488@YAHOO.COM,hira.shah488@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10643,email,HIRA.ABBASI643@ICLOUD.COM,hira.abbasi643@icloud.com,Email formatting,Lowercased and trimmed
+INT-20021,email,ALI.ANSARI595@GMAIL.COM,ali.ansari595@gmail.com,Email formatting,Lowercased and trimmed
+INT-20031,email,SANA.CHANDIO690@ICLOUD.COM,sana.chandio690@icloud.com,Email formatting,Lowercased and trimmed
+INT-20033,email,MUHAMMAD.KHAN793@OUTLOOK.COM,muhammad.khan793@outlook.com,Email formatting,Lowercased and trimmed
+INT-20006,email,TALHA.ALI100@OUTLOOK.COM,talha.ali100@outlook.com,Email formatting,Lowercased and trimmed
+INT-10852,email,FARHAN.ANSARI852@YAHOO.COM,farhan.ansari852@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10245,email, yasir.siddiqui245@yahoo.com ,yasir.siddiqui245@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20028,email,NIMRA.SYED13@GMAIL.COM,nimra.syed13@gmail.com,Email formatting,Lowercased and trimmed
+INT-10333,email,SAJID.ALI333@YAHOO.COM,sajid.ali333@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20012,email,TALHA.ALI336@GMAIL.COM,talha.ali336@gmail.com,Email formatting,Lowercased and trimmed
+INT-10022,email,HIRA.SHAH22@OUTLOOK.COM,hira.shah22@outlook.com,Email formatting,Lowercased and trimmed
+INT-20022,email,YASIR.ANSARI666@YAHOO.COM,yasir.ansari666@yahoo.com,Email formatting,Lowercased and trimmed
+INT-10669,email, ahsan.memon669@outlook.com ,ahsan.memon669@outlook.com,Email formatting,Lowercased and trimmed
+INT-20040,email,IQRA.BHATTI840@OUTLOOK.COM,iqra.bhatti840@outlook.com,Email formatting,Lowercased and trimmed
+INT-10818,email, nimra.siddiqui818@gmail.com ,nimra.siddiqui818@gmail.com,Email formatting,Lowercased and trimmed
+INT-20023,email,HAMZA.ALI312@GMAIL.COM,hamza.ali312@gmail.com,Email formatting,Lowercased and trimmed
+INT-10592,email,ZARA.CHANDIO592@ICLOUD.COM,zara.chandio592@icloud.com,Email formatting,Lowercased and trimmed
+INT-10462,email,HAMZA.BALOCH462@GMAIL.COM,hamza.baloch462@gmail.com,Email formatting,Lowercased and trimmed
+INT-10318,email, iqra.shaikh318@icloud.com ,iqra.shaikh318@icloud.com,Email formatting,Lowercased and trimmed
+INT-10210,email,YASIR.CHANDIO210@OUTLOOK.COM,yasir.chandio210@outlook.com,Email formatting,Lowercased and trimmed
+INT-20030,email,MAHNOOR.SIDDIQUI10@YAHOO.COM,mahnoor.siddiqui10@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20038,email,AHSAN.SIDDIQUI370@YAHOO.COM,ahsan.siddiqui370@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20015,email,MAHNOOR.MALIK477@OUTLOOK.COM,mahnoor.malik477@outlook.com,Email formatting,Lowercased and trimmed
+INT-10005,email, sajid.rind5@outlook.com ,sajid.rind5@outlook.com,Email formatting,Lowercased and trimmed
+INT-10214,email, sana.ali214@outlook.com ,sana.ali214@outlook.com,Email formatting,Lowercased and trimmed
+INT-10799,email,SAAD.SHAH799@YAHOO.COM,saad.shah799@yahoo.com,Email formatting,Lowercased and trimmed
+INT-20001,email,ALI.CHANDIO59@ICLOUD.COM,ali.chandio59@icloud.com,Email formatting,Lowercased and trimmed
+INT-20027,email,LAIBA.RAJPUT706@GMAIL.COM,laiba.rajput706@gmail.com,Email formatting,Lowercased and trimmed
+INT-10472,email, ahsan.baloch472@outlook.com ,ahsan.baloch472@outlook.com,Email formatting,Lowercased and trimmed
+INT-10483,email, fatima.baloch483@outlook.com ,fatima.baloch483@outlook.com,Email formatting,Lowercased and trimmed
+INT-10698,phone,0326-589 1815,03265891815,Phone formatting,Normalized to 11 digits
+INT-10750,phone,0305 4627106,03054627106,Phone formatting,Normalized to 11 digits
+INT-10677,phone,+92 306 729 7354,03067297354,Phone formatting,Normalized to 11 digits
+INT-10289,phone,+92 322 481 6486,03224816486,Phone formatting,Normalized to 11 digits
+INT-10502,phone,0332-314 9655,03323149655,Phone formatting,Normalized to 11 digits
+INT-10413,phone,+92 336 292 7092,03362927092,Phone formatting,Normalized to 11 digits
+INT-10050,phone,0331 5747643,03315747643,Phone formatting,Normalized to 11 digits
+INT-10223,phone,0330-444 3378,03304443378,Phone formatting,Normalized to 11 digits
+INT-10381,phone,+92 302 400 5793,03024005793,Phone formatting,Normalized to 11 digits
+INT-10356,phone,+92 334 704 2112,03347042112,Phone formatting,Normalized to 11 digits
+INT-10607,phone,0341 2859567,03412859567,Phone formatting,Normalized to 11 digits
+INT-10111,phone,+92 342 136 2916,03421362916,Phone formatting,Normalized to 11 digits
+INT-20004,phone,923481404682,03481404682,Phone formatting,Normalized to 11 digits
+INT-10065,phone,+92 321 923 9650,03219239650,Phone formatting,Normalized to 11 digits
+INT-10624,phone,0302-397 5012,03023975012,Phone formatting,Normalized to 11 digits
+INT-10123,phone,+92 307 330 4905,03073304905,Phone formatting,Normalized to 11 digits
+INT-10711,phone,0319-660 4054,03196604054,Phone formatting,Normalized to 11 digits
+INT-10521,phone,0336-712 1044,03367121044,Phone formatting,Normalized to 11 digits
+INT-10172,phone,+92 340 190 5488,03401905488,Phone formatting,Normalized to 11 digits
+INT-10321,phone,+92 312 175 0960,03121750960,Phone formatting,Normalized to 11 digits
+INT-10682,phone,+92 301 599 1184,03015991184,Phone formatting,Normalized to 11 digits
+INT-10440,phone,+92 309 843 3180,03098433180,Phone formatting,Normalized to 11 digits
+INT-10617,phone,0331-556 8612,03315568612,Phone formatting,Normalized to 11 digits
+INT-10047,phone,0312 0414714,03120414714,Phone formatting,Normalized to 11 digits
+INT-10116,phone,0322-317 4748,03223174748,Phone formatting,Normalized to 11 digits
+INT-10073,phone,0332-650 9569,03326509569,Phone formatting,Normalized to 11 digits
+INT-10076,phone,0348-262 1310,03482621310,Phone formatting,Normalized to 11 digits
+INT-10114,phone,0317-203 3190,03172033190,Phone formatting,Normalized to 11 digits
+INT-10115,phone,+92 300 585 3305,03005853305,Phone formatting,Normalized to 11 digits
+INT-10681,phone,+92 323 614 9330,03236149330,Phone formatting,Normalized to 11 digits
+INT-10670,phone,0304 3247352,03043247352,Phone formatting,Normalized to 11 digits
+INT-10345,phone,0326-282 2580,03262822580,Phone formatting,Normalized to 11 digits
+INT-10352,phone,+92 327 760 9699,03277609699,Phone formatting,Normalized to 11 digits
+INT-10426,phone,+92 308 095 2583,03080952583,Phone formatting,Normalized to 11 digits
+INT-10539,phone,0334 5555379,03345555379,Phone formatting,Normalized to 11 digits
+INT-10632,phone,0316 8604671,03168604671,Phone formatting,Normalized to 11 digits
+INT-10499,phone,0335 5851179,03355851179,Phone formatting,Normalized to 11 digits
+INT-10505,phone,0327-142 1754,03271421754,Phone formatting,Normalized to 11 digits
+INT-10375,phone,0306-525 6808,03065256808,Phone formatting,Normalized to 11 digits
+INT-10587,phone,0335 3262592,03353262592,Phone formatting,Normalized to 11 digits
+INT-10457,phone,+92 348 140 4682,03481404682,Phone formatting,Normalized to 11 digits
+INT-10510,phone,0317 2624680,03172624680,Phone formatting,Normalized to 11 digits
+INT-10397,phone,+92 323 182 9077,03231829077,Phone formatting,Normalized to 11 digits
+INT-10283,phone,0311-420 6147,03114206147,Phone formatting,Normalized to 11 digits
+INT-10540,phone,+92 316 960 1659,03169601659,Phone formatting,Normalized to 11 digits
+INT-10190,phone,0324 1290253,03241290253,Phone formatting,Normalized to 11 digits
+INT-10251,phone,0340 7926377,03407926377,Phone formatting,Normalized to 11 digits
+INT-10245,phone,+92 325 883 0122,03258830122,Phone formatting,Normalized to 11 digits
+INT-10789,phone,0347-600 3540,03476003540,Phone formatting,Normalized to 11 digits
+INT-10669,phone,0344 7043621,03447043621,Phone formatting,Normalized to 11 digits
+INT-10647,phone,0347 0568648,03470568648,Phone formatting,Normalized to 11 digits
+INT-10541,phone,0318 2948685,03182948685,Phone formatting,Normalized to 11 digits
+INT-10848,phone,+92 334 501 4837,03345014837,Phone formatting,Normalized to 11 digits
+INT-10470,phone,+92 327 170 5995,03271705995,Phone formatting,Normalized to 11 digits
+INT-10513,phone,0313-894 2137,03138942137,Phone formatting,Normalized to 11 digits
+INT-10206,phone,0324-221 8225,03242218225,Phone formatting,Normalized to 11 digits
+INT-10829,phone,+92 317 621 7237,03176217237,Phone formatting,Normalized to 11 digits
+INT-10312,phone,0318 0869308,03180869308,Phone formatting,Normalized to 11 digits
+INT-10330,phone,+92 348 488 3574,03484883574,Phone formatting,Normalized to 11 digits
+INT-10793,phone,0338-524 8565,03385248565,Phone formatting,Normalized to 11 digits
+INT-10004,phone,+92 325 270 8888,03252708888,Phone formatting,Normalized to 11 digits
+INT-10347,phone,0307 9355830,03079355830,Phone formatting,Normalized to 11 digits
+INT-10588,city,Rawalpindi ,Rawalpindi,City formatting,Mapped to canonical city
+INT-10709,city,KHAIRPUR,Khairpur,City formatting,Mapped to canonical city
+INT-10686,city,KARACHI,Karachi,City formatting,Mapped to canonical city
+INT-10646,city,KHAIRPUR,Khairpur,City formatting,Mapped to canonical city
+INT-10413,city,SUKKUR,Sukkur,City formatting,Mapped to canonical city
+INT-10353,city,Rawalpindi ,Rawalpindi,City formatting,Mapped to canonical city
+INT-10221,city,Lhr,Lahore,City formatting,Mapped to canonical city
+INT-10356,city,khi,Karachi,City formatting,Mapped to canonical city
+INT-10135,city,hyderabad,Hyderabad,City formatting,Mapped to canonical city
+INT-10006,city,LAHORE,Lahore,City formatting,Mapped to canonical city
+INT-10098,city,SUKKUR,Sukkur,City formatting,Mapped to canonical city
+INT-10029,city,sukkur,Sukkur,City formatting,Mapped to canonical city
+INT-10030,city,sukkur,Sukkur,City formatting,Mapped to canonical city
+INT-10707,city,Hyd,Hyderabad,City formatting,Mapped to canonical city
+INT-10784,city,islamabad,Islamabad,City formatting,Mapped to canonical city
+INT-10077,city,rawalpindi,Rawalpindi,City formatting,Mapped to canonical city
+INT-10231,city,HYDERABAD,Hyderabad,City formatting,Mapped to canonical city
+INT-10336,city,ISLAMABAD,Islamabad,City formatting,Mapped to canonical city
+INT-10744,city,khairpur,Khairpur,City formatting,Mapped to canonical city
+INT-10325,city,Isb,Islamabad,City formatting,Mapped to canonical city
+INT-10509,city,SUKKUR,Sukkur,City formatting,Mapped to canonical city
+INT-20013,city,Karachi ,Karachi,City formatting,Mapped to canonical city
+INT-10832,city,SUKKUR,Sukkur,City formatting,Mapped to canonical city
+INT-10054,city,karachi,Karachi,City formatting,Mapped to canonical city
+INT-10535,city,LAHORE,Lahore,City formatting,Mapped to canonical city
+INT-10786,city,ISLAMABAD,Islamabad,City formatting,Mapped to canonical city
+INT-10120,city,HYDERABAD,Hyderabad,City formatting,Mapped to canonical city
+INT-10519,city,ISLAMABAD,Islamabad,City formatting,Mapped to canonical city
+INT-10455,city,karachi,Karachi,City formatting,Mapped to canonical city
+INT-10612,city,sukkur,Sukkur,City formatting,Mapped to canonical city
+INT-10810,city,hyderabad,Hyderabad,City formatting,Mapped to canonical city
+INT-10627,city,Rawalpindi ,Rawalpindi,City formatting,Mapped to canonical city
+INT-10232,city,khi,Karachi,City formatting,Mapped to canonical city
+INT-10129,city,Lhr,Lahore,City formatting,Mapped to canonical city
+INT-10681,city,Isb,Islamabad,City formatting,Mapped to canonical city
+INT-10137,city,LAHORE,Lahore,City formatting,Mapped to canonical city
+INT-10228,city,rawalpindi,Rawalpindi,City formatting,Mapped to canonical city
+INT-10591,city,Hyd,Hyderabad,City formatting,Mapped to canonical city
+INT-10086,city,KHAIRPUR,Khairpur,City formatting,Mapped to canonical city
+INT-20008,city,KHAIRPUR,Khairpur,City formatting,Mapped to canonical city
+INT-10208,city,Karachi ,Karachi,City formatting,Mapped to canonical city
+INT-10358,city,hyderabad,Hyderabad,City formatting,Mapped to canonical city
+INT-10165,city,rawalpindi,Rawalpindi,City formatting,Mapped to canonical city
+INT-10693,city,lahore,Lahore,City formatting,Mapped to canonical city
+INT-10067,city,LAHORE,Lahore,City formatting,Mapped to canonical city
+INT-10257,city,islamabad,Islamabad,City formatting,Mapped to canonical city
+INT-10503,city,rawalpindi,Rawalpindi,City formatting,Mapped to canonical city
+INT-20012,city,ISLAMABAD,Islamabad,City formatting,Mapped to canonical city
+INT-10220,city,Hyd,Hyderabad,City formatting,Mapped to canonical city
+INT-10048,city,khairpur,Khairpur,City formatting,Mapped to canonical city
+INT-10414,city,sukkur,Sukkur,City formatting,Mapped to canonical city
+INT-10702,city,islamabad,Islamabad,City formatting,Mapped to canonical city
+INT-10105,city,KHAIRPUR,Khairpur,City formatting,Mapped to canonical city
+INT-10453,city,karachi,Karachi,City formatting,Mapped to canonical city
+INT-10094,city,khairpur,Khairpur,City formatting,Mapped to canonical city
+INT-10004,city,karachi,Karachi,City formatting,Mapped to canonical city
+INT-10754,city,Rawalpindi ,Rawalpindi,City formatting,Mapped to canonical city
+INT-10743,education_level,B.S Information Technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10423,education_level,bs information technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10646,education_level,BS IT,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10780,education_level,BSSE,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10095,education_level,bs data science,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10691,education_level,B.S. Computer Science,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10234,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10475,education_level,bs software engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10562,education_level,bs data science,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10654,education_level,B.S. Computer Science,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10572,education_level,B.S Information Technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10396,education_level,bs computer science,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10516,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10507,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-20026,education_level,bs software engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-20009,education_level,bs information technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10021,education_level,bs software engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10115,education_level,bs data science,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10225,education_level,B.S. Computer Science,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10058,education_level,BSCS,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10644,education_level,B.S Information Technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10288,education_level,BSCS,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10173,education_level,bs software engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10426,education_level,BS IT,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10299,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10632,education_level,B.S Software Engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10264,education_level,B.S Software Engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10184,education_level,BS IT,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10570,education_level,bs software engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10293,education_level,bs information technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10104,education_level,B.S Software Engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10533,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10143,education_level,B.S Software Engineering,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10719,education_level,B.S. Computer Science,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10494,education_level,BSCS,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10848,education_level,bs information technology,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10206,education_level,BS IT,BS Information Technology,Education formatting,Mapped to canonical degree
+INT-10027,education_level,bs computer science,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10467,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10517,education_level,BSSE,BS Software Engineering,Education formatting,Mapped to canonical degree
+INT-10004,education_level,BSCS,BS Computer Science,Education formatting,Mapped to canonical degree
+INT-10483,education_level,BSDS,BS Data Science,Education formatting,Mapped to canonical degree
+INT-10826,preferred_department,Data analyst,Data Analytics,Department formatting,Mapped to canonical department
+INT-10646,preferred_department,HR,Human Resources,Department formatting,Mapped to canonical department
+INT-10189,preferred_department,data analytics,Data Analytics,Department formatting,Mapped to canonical department
+INT-10095,preferred_department,HR,Human Resources,Department formatting,Mapped to canonical department
+INT-10652,preferred_department,business intelligence,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10030,preferred_department,software development,Software Development,Department formatting,Mapped to canonical department
+INT-20002,preferred_department,Software dev,Software Development,Department formatting,Mapped to canonical department
+INT-10851,preferred_department,BI,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10620,preferred_department,DATA ANALYTICS,Data Analytics,Department formatting,Mapped to canonical department
+INT-10244,preferred_department,HR,Human Resources,Department formatting,Mapped to canonical department
+INT-10097,preferred_department,BI,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10193,preferred_department,Software dev,Software Development,Department formatting,Mapped to canonical department
+INT-10471,preferred_department,software development,Software Development,Department formatting,Mapped to canonical department
+INT-10455,preferred_department,software development,Software Development,Department formatting,Mapped to canonical department
+INT-10627,preferred_department,human resources,Human Resources,Department formatting,Mapped to canonical department
+INT-10085,preferred_department,human resources,Human Resources,Department formatting,Mapped to canonical department
+INT-10058,preferred_department,business intelligence,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10080,preferred_department,software development,Software Development,Department formatting,Mapped to canonical department
+INT-10213,preferred_department,DATA ANALYTICS,Data Analytics,Department formatting,Mapped to canonical department
+INT-10581,preferred_department,BI,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10651,preferred_department,HR,Human Resources,Department formatting,Mapped to canonical department
+INT-10341,preferred_department,human resources,Human Resources,Department formatting,Mapped to canonical department
+INT-10283,preferred_department,Data analyst,Data Analytics,Department formatting,Mapped to canonical department
+INT-10355,preferred_department,BI,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10359,preferred_department,Software dev,Software Development,Department formatting,Mapped to canonical department
+INT-10747,preferred_department,data analytics,Data Analytics,Department formatting,Mapped to canonical department
+INT-10603,preferred_department,Software dev,Software Development,Department formatting,Mapped to canonical department
+INT-10733,preferred_department,HR,Human Resources,Department formatting,Mapped to canonical department
+INT-10414,preferred_department,BI,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10366,preferred_department,Data analyst,Data Analytics,Department formatting,Mapped to canonical department
+INT-10462,preferred_department,DATA ANALYTICS,Data Analytics,Department formatting,Mapped to canonical department
+INT-10757,preferred_department,business intelligence,Business Intelligence,Department formatting,Mapped to canonical department
+INT-10483,preferred_department,software development,Software Development,Department formatting,Mapped to canonical department
+INT-20010,skills,"HTML/CSS, Python","Html, Css, Python",Skills formatting,Standardized delimiters and labels
+INT-10565,skills,sql; Python; pandas; Excel; Communication,"SQL, Python, Pandas, Excel, Communication",Skills formatting,Standardized delimiters and labels
+INT-10776,skills,"Power BI, Machine Learning, Python, Communication, SQL, HTML/CSS","Power BI, Machine Learning, Python, Communication, SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10696,skills,"Excel, HTML/CSS","Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10826,skills,"Excel, HTML/CSS, Git, Pandas, Machine Learning, SQL","Excel, Html, Css, Git, Pandas, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10365,skills,"Power BI, Statistics, Communication, HTML/CSS, Machine Learning, Python","Power BI, Statistics, Communication, Html, Css, Machine Learning, Python",Skills formatting,Standardized delimiters and labels
+INT-10704,skills,"Power BI, Pandas, Git, HTML/CSS, Machine Learning","Power BI, Pandas, Git, Html, Css, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10450,skills,"Power BI, HTML/CSS, Machine Learning, Git","Power BI, Html, Css, Machine Learning, Git",Skills formatting,Standardized delimiters and labels
+INT-10364,skills,Git; Communication; HTML/CSS; SQL; excel; Machine Learning,"Git, Communication, Html, Css, SQL, Excel, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10020,skills,"Git, Statistics, HTML/CSS","Git, Statistics, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10249,skills,"Pandas, HTML/CSS, Excel, Communication","Pandas, Html, Css, Excel, Communication",Skills formatting,Standardized delimiters and labels
+INT-10677,skills,"HTML/CSS, Data Visualization, Communication, Tableau, Power BI","Html, Css, Data Visualization, Communication, Tableau, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10289,skills,"Pandas, Machine Learning, Communication, Data Visualization, HTML/CSS","Pandas, Machine Learning, Communication, Data Visualization, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-20037,skills,"Machine Learning, Power BI, Excel, HTML/CSS","Machine Learning, Power BI, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10794,skills,"Python, HTML/CSS, Tableau, Git","Python, Html, Css, Tableau, Git",Skills formatting,Standardized delimiters and labels
+INT-10416,skills,"Python, Pandas, Git, HTML/CSS, SQL, Data Visualization","Python, Pandas, Git, Html, Css, SQL, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10423,skills,"Machine Learning, HTML/CSS, Communication, Statistics, Python","Machine Learning, Html, Css, Communication, Statistics, Python",Skills formatting,Standardized delimiters and labels
+INT-20018,skills,"Git, Power BI, HTML/CSS, SQL, Statistics","Git, Power BI, Html, Css, SQL, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10686,skills,"Data Visualization, Tableau, HTML/CSS","Data Visualization, Tableau, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10695,skills,Machine Learning / excel,"Machine Learning, Excel",Skills formatting,Standardized delimiters and labels
+INT-10413,skills,"Excel, HTML/CSS, Tableau, Data Visualization, Statistics","Excel, Html, Css, Tableau, Data Visualization, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10468,skills,"Power BI, Data Visualization, HTML/CSS, Python, Statistics, Tableau","Power BI, Data Visualization, Html, Css, Python, Statistics, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10050,skills,git | statistics | Machine Learning | excel | powerbi | Tableau,"Git, Statistics, Machine Learning, Excel, Power BI, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10189,skills,"HTML/CSS, SQL, Python, Data Visualization","Html, Css, SQL, Python, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10014,skills,Git; Power BI,"Git, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10814,skills,"HTML/CSS, Tableau, Python","Html, Css, Tableau, Python",Skills formatting,Standardized delimiters and labels
+INT-10683,skills,"HTML/CSS, Python, SQL, Tableau, Data Visualization","Html, Css, Python, SQL, Tableau, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10772,skills,"SQL, Data Visualization, HTML/CSS, Git, Python","SQL, Data Visualization, Html, Css, Git, Python",Skills formatting,Standardized delimiters and labels
+INT-10100,skills,"Pandas, SQL, Excel, Git, HTML/CSS, Power BI","Pandas, SQL, Excel, Git, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10363,skills,"Git, Communication, Pandas, HTML/CSS, Statistics","Git, Communication, Pandas, Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10788,skills,"HTML/CSS, Machine Learning","Html, Css, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10594,skills,"HTML/CSS, Excel, Python","Html, Css, Excel, Python",Skills formatting,Standardized delimiters and labels
+INT-10729,skills,power bi | Statistics | Data Visualization | Python,"Power BI, Statistics, Data Visualization, Python",Skills formatting,Standardized delimiters and labels
+INT-10740,skills,machine learning; Statistics; Excel,"Machine Learning, Statistics, Excel",Skills formatting,Standardized delimiters and labels
+INT-10543,skills,"Excel, HTML/CSS","Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10779,skills,sql | Communication,"SQL, Communication",Skills formatting,Standardized delimiters and labels
+INT-10381,skills,"Machine Learning, Power BI, HTML/CSS","Machine Learning, Power BI, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10723,skills,"Tableau, Python, HTML/CSS, Git","Tableau, Python, Html, Css, Git",Skills formatting,Standardized delimiters and labels
+INT-10119,skills,"HTML/CSS, Pandas, Excel, Data Visualization, Machine Learning","Html, Css, Pandas, Excel, Data Visualization, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10095,skills,"Python, Statistics, HTML/CSS, Excel, Power BI, Pandas","Python, Statistics, Html, Css, Excel, Power BI, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10356,skills,"Tableau, Git, Python, Pandas, HTML/CSS, Power BI","Tableau, Git, Python, Pandas, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10691,skills,"SQL, Tableau, HTML/CSS, Machine Learning, Git, Power BI","SQL, Tableau, Html, Css, Machine Learning, Git, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10853,skills,powerbi; excel,"Power BI, Excel",Skills formatting,Standardized delimiters and labels
+INT-10481,skills,"HTML/CSS, Tableau, Excel, Python, Communication, SQL","Html, Css, Tableau, Excel, Python, Communication, SQL",Skills formatting,Standardized delimiters and labels
+INT-10106,skills,"Power BI, HTML/CSS, Data Visualization, Python, Tableau, SQL","Power BI, Html, Css, Data Visualization, Python, Tableau, SQL",Skills formatting,Standardized delimiters and labels
+INT-10156,skills,"HTML/CSS, Tableau, Git, Data Visualization","Html, Css, Tableau, Git, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10428,skills,"Machine Learning, Tableau, Python, Communication, HTML/CSS","Machine Learning, Tableau, Python, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10309,skills,"HTML/CSS, Power BI, Machine Learning, Communication, Statistics, SQL","Html, Css, Power BI, Machine Learning, Communication, Statistics, SQL",Skills formatting,Standardized delimiters and labels
+INT-10062,skills,"Communication, HTML/CSS, Excel, Pandas, Tableau","Communication, Html, Css, Excel, Pandas, Tableau",Skills formatting,Standardized delimiters and labels
+INT-20003,skills,sql | Communication,"SQL, Communication",Skills formatting,Standardized delimiters and labels
+INT-10699,skills,"Python, Tableau, Pandas, Communication, HTML/CSS","Python, Tableau, Pandas, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10028,skills,"Excel, Pandas, HTML/CSS, Tableau","Excel, Pandas, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10843,skills,python / html/css / Power BI,"Python, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10030,skills,SQL / power bi / excel / git / Statistics,"SQL, Power BI, Excel, Git, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10784,skills,"Data Visualization, Pandas, Power BI, HTML/CSS, Python, Communication","Data Visualization, Pandas, Power BI, Html, Css, Python, Communication",Skills formatting,Standardized delimiters and labels
+INT-10476,skills,"SQL, Tableau, Communication, HTML/CSS","SQL, Tableau, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10844,skills,"SQL, Statistics, Machine Learning, HTML/CSS, Excel","SQL, Statistics, Machine Learning, Html, Css, Excel",Skills formatting,Standardized delimiters and labels
+INT-10383,skills,sql / Communication,"SQL, Communication",Skills formatting,Standardized delimiters and labels
+INT-10186,skills,"Git, Excel, HTML/CSS","Git, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10816,skills,"Excel, Machine Learning, Power BI, SQL, HTML/CSS","Excel, Machine Learning, Power BI, SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10313,skills,"Tableau, Statistics, SQL, HTML/CSS, Machine Learning","Tableau, Statistics, SQL, Html, Css, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10077,skills,communication | Tableau | Git,"Communication, Tableau, Git",Skills formatting,Standardized delimiters and labels
+INT-10138,skills,"Communication, HTML/CSS, SQL, Machine Learning, Power BI","Communication, Html, Css, SQL, Machine Learning, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10229,skills,"Python, HTML/CSS, Data Visualization, Communication","Python, Html, Css, Data Visualization, Communication",Skills formatting,Standardized delimiters and labels
+INT-10131,skills,Machine Learning | HTML/CSS | Pandas | Statistics | Tableau | Python,"Machine Learning, Html, Css, Pandas, Statistics, Tableau, Python",Skills formatting,Standardized delimiters and labels
+INT-10586,skills,"Communication, Pandas, Git, Machine Learning, HTML/CSS","Communication, Pandas, Git, Machine Learning, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10761,skills,"SQL, Data Visualization, HTML/CSS, Statistics, Communication","SQL, Data Visualization, Html, Css, Statistics, Communication",Skills formatting,Standardized delimiters and labels
+INT-20007,skills,power bi | Statistics | Data Visualization | Python,"Power BI, Statistics, Data Visualization, Python",Skills formatting,Standardized delimiters and labels
+INT-10629,skills,"HTML/CSS, Communication","Html, Css, Communication",Skills formatting,Standardized delimiters and labels
+INT-20020,skills,"Power BI, SQL, Statistics, HTML/CSS, Tableau, Pandas","Power BI, SQL, Statistics, Html, Css, Tableau, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10405,skills,Communication | Tableau | python | statistics | power bi,"Communication, Tableau, Python, Statistics, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10475,skills,"HTML/CSS, Power BI, Git","Html, Css, Power BI, Git",Skills formatting,Standardized delimiters and labels
+INT-10136,skills,"HTML/CSS, Python, Git, Communication","Html, Css, Python, Git, Communication",Skills formatting,Standardized delimiters and labels
+INT-10679,skills,"SQL, HTML/CSS","SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10380,skills,"Pandas, HTML/CSS, Data Visualization, SQL","Pandas, Html, Css, Data Visualization, SQL",Skills formatting,Standardized delimiters and labels
+INT-10441,skills,"Machine Learning, Power BI, Excel, HTML/CSS","Machine Learning, Power BI, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10282,skills,Communication | Machine Learning | sql,"Communication, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10774,skills,"HTML/CSS, Data Visualization, SQL, Communication, Python","Html, Css, Data Visualization, SQL, Communication, Python",Skills formatting,Standardized delimiters and labels
+INT-10768,skills,"Data Visualization, Git, HTML/CSS","Data Visualization, Git, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10469,skills,"Pandas, Machine Learning, Python, Tableau, HTML/CSS","Pandas, Machine Learning, Python, Tableau, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10572,skills,"Communication, HTML/CSS, Machine Learning, Statistics, Excel, Power BI","Communication, Html, Css, Machine Learning, Statistics, Excel, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10132,skills,Communication; Data Visualization; Power BI; Python,"Communication, Data Visualization, Power BI, Python",Skills formatting,Standardized delimiters and labels
+INT-10649,skills,"Excel, Python, Communication, HTML/CSS, Statistics, Data Visualization","Excel, Python, Communication, Html, Css, Statistics, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10489,skills,"Pandas, Tableau, Excel, Machine Learning, SQL, HTML/CSS","Pandas, Tableau, Excel, Machine Learning, SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10759,skills,"Excel, HTML/CSS","Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10325,skills,"HTML/CSS, Power BI, Pandas","Html, Css, Power BI, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10317,skills,"Git, Power BI, HTML/CSS, SQL, Statistics","Git, Power BI, Html, Css, SQL, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10847,skills,"HTML/CSS, Git, Tableau, Power BI, Machine Learning, SQL","Html, Css, Git, Tableau, Power BI, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10183,skills,Git / power bi / Tableau / Statistics,"Git, Power BI, Tableau, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10537,skills,Git / Communication / Pandas,"Git, Communication, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10051,skills,"Statistics, Communication, Data Visualization, SQL, HTML/CSS","Statistics, Communication, Data Visualization, SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10626,skills,Pandas / Data Visualization / python / Communication / Machine Learning / SQL,"Pandas, Data Visualization, Python, Communication, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10727,skills,"HTML/CSS, SQL, Statistics, Machine Learning, Excel","Html, Css, SQL, Statistics, Machine Learning, Excel",Skills formatting,Standardized delimiters and labels
+INT-10396,skills,excel / pandas / communication / machine learning,"Excel, Pandas, Communication, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10023,skills,"Power BI, Tableau, Statistics, Python, Data Visualization, HTML/CSS","Power BI, Tableau, Statistics, Python, Data Visualization, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10059,skills,"Data Visualization, Python, HTML/CSS, Git, Pandas","Data Visualization, Python, Html, Css, Git, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10611,skills,"HTML/CSS, Data Visualization, Git, Statistics, Power BI, Python","Html, Css, Data Visualization, Git, Statistics, Power BI, Python",Skills formatting,Standardized delimiters and labels
+INT-10340,skills,"Python, Excel, HTML/CSS, Machine Learning, Communication, Pandas","Python, Excel, Html, Css, Machine Learning, Communication, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10624,skills,"Git, Machine Learning, HTML/CSS, Statistics","Git, Machine Learning, Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10724,skills,"Data Visualization, HTML/CSS, Excel, Power BI, Python","Data Visualization, Html, Css, Excel, Power BI, Python",Skills formatting,Standardized delimiters and labels
+INT-10338,skills,"Python, Pandas, Machine Learning, HTML/CSS, Git","Python, Pandas, Machine Learning, Html, Css, Git",Skills formatting,Standardized delimiters and labels
+INT-10246,skills,"HTML/CSS, Machine Learning","Html, Css, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10011,skills,"Machine Learning, Excel, HTML/CSS, SQL, Python","Machine Learning, Excel, Html, Css, SQL, Python",Skills formatting,Standardized delimiters and labels
+INT-10191,skills,"Git, HTML/CSS, Tableau, Pandas, Excel, Python","Git, Html, Css, Tableau, Pandas, Excel, Python",Skills formatting,Standardized delimiters and labels
+INT-10711,skills,"HTML/CSS, Excel, Statistics","Html, Css, Excel, Statistics",Skills formatting,Standardized delimiters and labels
+INT-20039,skills,"HTML/CSS, Excel, SQL, Communication, Data Visualization","Html, Css, Excel, SQL, Communication, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10521,skills,Pandas; git; tableau; Machine Learning; Data Visualization; HTML/CSS,"Pandas, Git, Tableau, Machine Learning, Data Visualization, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10783,skills,"HTML/CSS, Data Visualization, Python, Excel, Tableau, Machine Learning","Html, Css, Data Visualization, Python, Excel, Tableau, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10782,skills,Excel; Data Visualization; python; Communication; Statistics; sql,"Excel, Data Visualization, Python, Communication, Statistics, SQL",Skills formatting,Standardized delimiters and labels
+INT-10630,skills,data visualization | sql | Pandas,"Data Visualization, SQL, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10447,skills,"Excel, Statistics, HTML/CSS","Excel, Statistics, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10509,skills,"Git, Data Visualization, HTML/CSS, Python, Excel","Git, Data Visualization, Html, Css, Python, Excel",Skills formatting,Standardized delimiters and labels
+INT-10435,skills,"Power BI, HTML/CSS, Machine Learning, Statistics","Power BI, Html, Css, Machine Learning, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10306,skills,Excel; Power BI; communication,"Excel, Power BI, Communication",Skills formatting,Standardized delimiters and labels
+INT-10009,skills,"Machine Learning, HTML/CSS, Power BI, Python, Git, Excel","Machine Learning, Html, Css, Power BI, Python, Git, Excel",Skills formatting,Standardized delimiters and labels
+INT-10378,skills,"Pandas, Machine Learning, HTML/CSS, Git","Pandas, Machine Learning, Html, Css, Git",Skills formatting,Standardized delimiters and labels
+INT-10832,skills,"Python, HTML/CSS, SQL","Python, Html, Css, SQL",Skills formatting,Standardized delimiters and labels
+INT-10126,skills,"Tableau, HTML/CSS, SQL","Tableau, Html, Css, SQL",Skills formatting,Standardized delimiters and labels
+INT-10102,skills,"HTML/CSS, Excel, Power BI, Machine Learning","Html, Css, Excel, Power BI, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10250,skills,"Statistics, HTML/CSS, Git, Pandas","Statistics, Html, Css, Git, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10746,skills,Power BI | Machine Learning | Pandas | excel | Git | data visualization,"Power BI, Machine Learning, Pandas, Excel, Git, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10673,skills,"Power BI, HTML/CSS, Statistics","Power BI, Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10236,skills,"HTML/CSS, Communication, Pandas, SQL","Html, Css, Communication, Pandas, SQL",Skills formatting,Standardized delimiters and labels
+INT-10797,skills,"HTML/CSS, Data Visualization, Git","Html, Css, Data Visualization, Git",Skills formatting,Standardized delimiters and labels
+INT-10590,skills,"Python, SQL, HTML/CSS, Pandas, Machine Learning, Communication","Python, SQL, Html, Css, Pandas, Machine Learning, Communication",Skills formatting,Standardized delimiters and labels
+INT-10172,skills,Data Visualization | sql,"Data Visualization, SQL",Skills formatting,Standardized delimiters and labels
+INT-10508,skills,"Communication, Tableau, Power BI, Pandas, Machine Learning, HTML/CSS","Communication, Tableau, Power BI, Pandas, Machine Learning, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10732,skills,"HTML/CSS, Power BI, Git","Html, Css, Power BI, Git",Skills formatting,Standardized delimiters and labels
+INT-10559,skills,"Excel, HTML/CSS, Git, Statistics, Data Visualization, Pandas","Excel, Html, Css, Git, Statistics, Data Visualization, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10018,skills,statistics / git / SQL / Power BI / Data Visualization,"Statistics, Git, SQL, Power BI, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10321,skills,"HTML/CSS, Python, Data Visualization, Communication, Statistics","Html, Css, Python, Data Visualization, Communication, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10589,skills,"Excel, HTML/CSS, Tableau","Excel, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10822,skills,Communication | Power BI | Machine Learning | Python | Tableau | Excel,"Communication, Power BI, Machine Learning, Python, Tableau, Excel",Skills formatting,Standardized delimiters and labels
+INT-10239,skills,Excel / powerbi,"Excel, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10460,skills,powerbi / Statistics / HTML/CSS / git,"Power BI, Statistics, Html, Css, Git",Skills formatting,Standardized delimiters and labels
+INT-10244,skills,"Tableau, HTML/CSS, Pandas","Tableau, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10672,skills,Data Visualization / Communication / Machine Learning / excel,"Data Visualization, Communication, Machine Learning, Excel",Skills formatting,Standardized delimiters and labels
+INT-10458,skills,Machine Learning; Statistics; Excel; Python,"Machine Learning, Statistics, Excel, Python",Skills formatting,Standardized delimiters and labels
+INT-10786,skills,"Python, Git, HTML/CSS, SQL, Power BI, Communication","Python, Git, Html, Css, SQL, Power BI, Communication",Skills formatting,Standardized delimiters and labels
+INT-10674,skills,"Communication, HTML/CSS, Machine Learning, SQL","Communication, Html, Css, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10850,skills,"Data Visualization, Communication, Power BI, Pandas, Git, HTML/CSS","Data Visualization, Communication, Power BI, Pandas, Git, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10653,skills,SQL | Python,"SQL, Python",Skills formatting,Standardized delimiters and labels
+INT-10334,skills,Python / HTML/CSS / Data Visualization / Tableau / pandas,"Python, Html, Css, Data Visualization, Tableau, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10827,skills,"Git, HTML/CSS, SQL, Power BI, Machine Learning","Git, Html, Css, SQL, Power BI, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10528,skills,"SQL, Git, Pandas, Machine Learning, HTML/CSS","SQL, Git, Pandas, Machine Learning, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10294,skills,"Excel, Statistics, Pandas, HTML/CSS","Excel, Statistics, Pandas, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10301,skills,power bi; Machine Learning; Statistics; Git; Excel,"Power BI, Machine Learning, Statistics, Git, Excel",Skills formatting,Standardized delimiters and labels
+INT-10840,skills,SQL / git / Tableau,"SQL, Git, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10525,skills,"HTML/CSS, Excel, SQL, Communication, Data Visualization","Html, Css, Excel, SQL, Communication, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10663,skills,"Machine Learning, Python, Statistics, HTML/CSS, Power BI, Git","Machine Learning, Python, Statistics, Html, Css, Power BI, Git",Skills formatting,Standardized delimiters and labels
+INT-10101,skills,"Excel, HTML/CSS, Python, Tableau, Statistics, Data Visualization","Excel, Html, Css, Python, Tableau, Statistics, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10655,skills,"SQL, Communication, Pandas, Power BI, HTML/CSS","SQL, Communication, Pandas, Power BI, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-20026,skills,"HTML/CSS, Communication, Data Visualization, SQL, Python, Statistics","Html, Css, Communication, Data Visualization, SQL, Python, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10717,skills,"HTML/CSS, Statistics, Python, SQL, Communication, Git","Html, Css, Statistics, Python, SQL, Communication, Git",Skills formatting,Standardized delimiters and labels
+INT-10019,skills,Data Visualization / Pandas / html/css / sql,"Data Visualization, Pandas, Html, Css, SQL",Skills formatting,Standardized delimiters and labels
+INT-10047,skills,"HTML/CSS, Excel, Statistics, Data Visualization","Html, Css, Excel, Statistics, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10021,skills,HTML/CSS; Data Visualization; tableau,"Html, Css, Data Visualization, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10219,skills,"Power BI, Machine Learning, Excel, HTML/CSS, Python, Statistics","Power BI, Machine Learning, Excel, Html, Css, Python, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10451,skills,"HTML/CSS, Data Visualization, Machine Learning","Html, Css, Data Visualization, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10512,skills,"SQL, Machine Learning, Statistics, Git, HTML/CSS, Communication","SQL, Machine Learning, Statistics, Git, Html, Css, Communication",Skills formatting,Standardized delimiters and labels
+INT-10745,skills,Tableau; Python; Machine Learning; statistics,"Tableau, Python, Machine Learning, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10448,skills,"Pandas, HTML/CSS, Power BI, Machine Learning, Excel","Pandas, Html, Css, Power BI, Machine Learning, Excel",Skills formatting,Standardized delimiters and labels
+INT-10748,skills,"Machine Learning, HTML/CSS, Pandas","Machine Learning, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10736,skills,"Power BI, SQL, Statistics, HTML/CSS, Tableau, Pandas","Power BI, SQL, Statistics, Html, Css, Tableau, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10092,skills,"Excel, Machine Learning, HTML/CSS, Statistics","Excel, Machine Learning, Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10459,skills,"Communication, Statistics, HTML/CSS, Tableau, Data Visualization","Communication, Statistics, Html, Css, Tableau, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10386,skills,HTML/CSS / Power BI / tableau / Communication,"Html, Css, Power BI, Tableau, Communication",Skills formatting,Standardized delimiters and labels
+INT-10090,skills,"Python, Statistics, HTML/CSS, Tableau","Python, Statistics, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10773,skills,"Pandas, Statistics, Tableau, SQL, HTML/CSS, Excel","Pandas, Statistics, Tableau, SQL, Html, Css, Excel",Skills formatting,Standardized delimiters and labels
+INT-10076,skills,"HTML/CSS, Power BI, Pandas, Git, Excel","Html, Css, Power BI, Pandas, Git, Excel",Skills formatting,Standardized delimiters and labels
+INT-10232,skills,"HTML/CSS, SQL, Communication, Statistics, Git, Power BI","Html, Css, SQL, Communication, Statistics, Git, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10431,skills,"Statistics, Excel, HTML/CSS, SQL, Pandas, Communication","Statistics, Excel, Html, Css, SQL, Pandas, Communication",Skills formatting,Standardized delimiters and labels
+INT-10813,skills,git / Machine Learning / SQL / Python,"Git, Machine Learning, SQL, Python",Skills formatting,Standardized delimiters and labels
+INT-10660,skills,"Data Visualization, HTML/CSS, Git, Power BI, SQL","Data Visualization, Html, Css, Git, Power BI, SQL",Skills formatting,Standardized delimiters and labels
+INT-10595,skills,"SQL, HTML/CSS, Excel, Tableau","SQL, Html, Css, Excel, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10211,skills,Communication / pandas / machine learning / statistics / Data Visualization,"Communication, Pandas, Machine Learning, Statistics, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10621,skills,"Tableau, SQL, Statistics, Communication, Python, HTML/CSS","Tableau, SQL, Statistics, Communication, Python, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10404,skills,"SQL, HTML/CSS, Tableau, Excel","SQL, Html, Css, Tableau, Excel",Skills formatting,Standardized delimiters and labels
+INT-10253,skills,"HTML/CSS, Statistics","Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10738,skills,"Tableau, Pandas, Data Visualization, Python, Machine Learning, HTML/CSS","Tableau, Pandas, Data Visualization, Python, Machine Learning, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10037,skills,sql | excel,"SQL, Excel",Skills formatting,Standardized delimiters and labels
+INT-10013,skills,"SQL, HTML/CSS, Power BI, Machine Learning","SQL, Html, Css, Power BI, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10438,skills,"Pandas, HTML/CSS, Data Visualization, Power BI, Python","Pandas, Html, Css, Data Visualization, Power BI, Python",Skills formatting,Standardized delimiters and labels
+INT-10665,skills,"HTML/CSS, Power BI, Communication, Python, Statistics, Tableau","Html, Css, Power BI, Communication, Python, Statistics, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10157,skills,"HTML/CSS, Python, Communication, Pandas","Html, Css, Python, Communication, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10841,skills,"HTML/CSS, Data Visualization, Tableau, SQL","Html, Css, Data Visualization, Tableau, SQL",Skills formatting,Standardized delimiters and labels
+INT-10228,skills,"Tableau, Machine Learning, Communication, HTML/CSS, Excel","Tableau, Machine Learning, Communication, Html, Css, Excel",Skills formatting,Standardized delimiters and labels
+INT-10049,skills,"HTML/CSS, SQL, Excel","Html, Css, SQL, Excel",Skills formatting,Standardized delimiters and labels
+INT-10248,skills,Machine Learning | Statistics,"Machine Learning, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10567,skills,Machine Learning; Pandas; power bi; Excel,"Machine Learning, Pandas, Power BI, Excel",Skills formatting,Standardized delimiters and labels
+INT-10400,skills,"Pandas, HTML/CSS, SQL, Machine Learning, Power BI","Pandas, Html, Css, SQL, Machine Learning, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10237,skills,"Statistics, HTML/CSS, Machine Learning, Data Visualization, Git, Excel","Statistics, Html, Css, Machine Learning, Data Visualization, Git, Excel",Skills formatting,Standardized delimiters and labels
+INT-10198,skills,"Data Visualization, Machine Learning, Communication, HTML/CSS, Pandas","Data Visualization, Machine Learning, Communication, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10086,skills,"Statistics, Git, HTML/CSS, Data Visualization, Communication, Python","Statistics, Git, Html, Css, Data Visualization, Communication, Python",Skills formatting,Standardized delimiters and labels
+INT-10644,skills,"HTML/CSS, Machine Learning, Git","Html, Css, Machine Learning, Git",Skills formatting,Standardized delimiters and labels
+INT-10530,skills,"SQL, Machine Learning, Data Visualization, HTML/CSS, Git, Python","SQL, Machine Learning, Data Visualization, Html, Css, Git, Python",Skills formatting,Standardized delimiters and labels
+INT-10575,skills,"Statistics, Communication, HTML/CSS, Python, Excel, SQL","Statistics, Communication, Html, Css, Python, Excel, SQL",Skills formatting,Standardized delimiters and labels
+INT-10303,skills,HTML/CSS; tableau; excel; statistics; Communication,"Html, Css, Tableau, Excel, Statistics, Communication",Skills formatting,Standardized delimiters and labels
+INT-10452,skills,communication / git / HTML/CSS / Pandas / powerbi,"Communication, Git, Html, Css, Pandas, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10792,skills,"Pandas, HTML/CSS, Power BI, Machine Learning","Pandas, Html, Css, Power BI, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10838,skills,"HTML/CSS, Excel, Power BI, Git, Data Visualization","Html, Css, Excel, Power BI, Git, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10017,skills,"Python, Tableau, Communication, SQL, HTML/CSS, Pandas","Python, Tableau, Communication, SQL, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-20008,skills,"Statistics, Git, HTML/CSS, Data Visualization, Communication, Python","Statistics, Git, Html, Css, Data Visualization, Communication, Python",Skills formatting,Standardized delimiters and labels
+INT-10556,skills,"Machine Learning, Pandas, Tableau, HTML/CSS","Machine Learning, Pandas, Tableau, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10080,skills,git | power bi | pandas | Python | machine learning,"Git, Power BI, Pandas, Python, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10173,skills,"HTML/CSS, Communication, Data Visualization, SQL, Python, Statistics","Html, Css, Communication, Data Visualization, SQL, Python, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10680,skills,"Communication, HTML/CSS, Machine Learning, Tableau, Power BI","Communication, Html, Css, Machine Learning, Tableau, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10756,skills,excel; Data Visualization; sql; Communication; power bi,"Excel, Data Visualization, SQL, Communication, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10200,skills,"HTML/CSS, Pandas, Machine Learning, Git, Excel","Html, Css, Pandas, Machine Learning, Git, Excel",Skills formatting,Standardized delimiters and labels
+INT-10426,skills,"Git, Power BI, HTML/CSS","Git, Power BI, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10581,skills,"Pandas, HTML/CSS, Git, Power BI, Data Visualization, Excel","Pandas, Html, Css, Git, Power BI, Data Visualization, Excel",Skills formatting,Standardized delimiters and labels
+INT-10539,skills,"Power BI, HTML/CSS, Pandas","Power BI, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10493,skills,Excel; Statistics; tableau; communication; SQL,"Excel, Statistics, Tableau, Communication, SQL",Skills formatting,Standardized delimiters and labels
+INT-10299,skills,"HTML/CSS, Data Visualization, SQL","Html, Css, Data Visualization, SQL",Skills formatting,Standardized delimiters and labels
+INT-10258,skills,"HTML/CSS, Python, Power BI, Statistics","Html, Css, Python, Power BI, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10491,skills,"Excel, HTML/CSS, Machine Learning, Git","Excel, Html, Css, Machine Learning, Git",Skills formatting,Standardized delimiters and labels
+INT-10499,skills,Python / Data Visualization / Power BI,"Python, Data Visualization, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10434,skills,"Communication, SQL, Data Visualization, Pandas, HTML/CSS","Communication, SQL, Data Visualization, Pandas, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10141,skills,"Power BI, HTML/CSS, Excel","Power BI, Html, Css, Excel",Skills formatting,Standardized delimiters and labels
+INT-10558,skills,"Machine Learning, HTML/CSS, Excel, Data Visualization, Power BI","Machine Learning, Html, Css, Excel, Data Visualization, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10140,skills,"Excel, Communication, Data Visualization, HTML/CSS","Excel, Communication, Data Visualization, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10526,skills,"SQL, Git, Data Visualization, HTML/CSS, Tableau, Machine Learning","SQL, Git, Data Visualization, Html, Css, Tableau, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10651,skills,"HTML/CSS, Communication, Tableau","Html, Css, Communication, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10315,skills,"Excel, HTML/CSS","Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10587,skills,"Python, Communication, HTML/CSS, Statistics, Power BI","Python, Communication, Html, Css, Statistics, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10168,skills,HTML/CSS | Git | pandas | sql,"Html, Css, Git, Pandas, SQL",Skills formatting,Standardized delimiters and labels
+INT-10498,skills,"Git, Python, HTML/CSS, Tableau","Git, Python, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10075,skills,"Excel, Data Visualization, HTML/CSS, Communication","Excel, Data Visualization, Html, Css, Communication",Skills formatting,Standardized delimiters and labels
+INT-10341,skills,Communication / HTML/CSS / python,"Communication, Html, Css, Python",Skills formatting,Standardized delimiters and labels
+INT-10205,skills,"Power BI, HTML/CSS","Power BI, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10511,skills,"HTML/CSS, Tableau","Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10835,skills,Statistics | pandas | Excel | Tableau | Power BI,"Statistics, Pandas, Excel, Tableau, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10574,skills,"Machine Learning, Power BI, SQL, HTML/CSS, Data Visualization","Machine Learning, Power BI, SQL, Html, Css, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10718,skills,"SQL, Excel, HTML/CSS, Pandas, Data Visualization, Git","SQL, Excel, Html, Css, Pandas, Data Visualization, Git",Skills formatting,Standardized delimiters and labels
+INT-10693,skills,data visualization; Pandas; HTML/CSS; git; Tableau; machine learning,"Data Visualization, Pandas, Html, Css, Git, Tableau, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10078,skills,"Git, HTML/CSS, Excel, Data Visualization, Pandas","Git, Html, Css, Excel, Data Visualization, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10554,skills,Pandas / Python / Excel / SQL / Machine Learning,"Pandas, Python, Excel, SQL, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10802,skills,"Excel, Machine Learning, Communication, Statistics, Python, HTML/CSS","Excel, Machine Learning, Communication, Statistics, Python, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10264,skills,"Git, Excel, Statistics, HTML/CSS, Tableau","Git, Excel, Statistics, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10033,skills,"Communication, Python, Data Visualization, HTML/CSS","Communication, Python, Data Visualization, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10522,skills,"Python, Excel, HTML/CSS, Machine Learning, Tableau","Python, Excel, Html, Css, Machine Learning, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10184,skills,"HTML/CSS, Communication, Python","Html, Css, Communication, Python",Skills formatting,Standardized delimiters and labels
+INT-10566,skills,"Pandas, Data Visualization, Machine Learning, Excel, Python, HTML/CSS","Pandas, Data Visualization, Machine Learning, Excel, Python, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10570,skills,"Power BI, HTML/CSS, Machine Learning, Statistics, SQL","Power BI, Html, Css, Machine Learning, Statistics, SQL",Skills formatting,Standardized delimiters and labels
+INT-10374,skills,data visualization / SQL / Excel,"Data Visualization, SQL, Excel",Skills formatting,Standardized delimiters and labels
+INT-10209,skills,"Statistics, HTML/CSS, Python, Machine Learning, Power BI, Excel","Statistics, Html, Css, Python, Machine Learning, Power BI, Excel",Skills formatting,Standardized delimiters and labels
+INT-10578,skills,"Statistics, Excel, Power BI, HTML/CSS, Pandas","Statistics, Excel, Power BI, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10602,skills,"Statistics, HTML/CSS, Python, Data Visualization, Pandas, Tableau","Statistics, Html, Css, Python, Data Visualization, Pandas, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10432,skills,"HTML/CSS, Machine Learning, Git, Python, SQL, Power BI","Html, Css, Machine Learning, Git, Python, SQL, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10795,skills,"HTML/CSS, SQL","Html, Css, SQL",Skills formatting,Standardized delimiters and labels
+INT-10555,skills,"Machine Learning, Python, HTML/CSS, Tableau, Excel","Machine Learning, Python, Html, Css, Tableau, Excel",Skills formatting,Standardized delimiters and labels
+INT-20021,skills,"SQL, HTML/CSS, Excel, Tableau","SQL, Html, Css, Excel, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10371,skills,"Statistics, Excel, SQL, HTML/CSS, Pandas","Statistics, Excel, SQL, Html, Css, Pandas",Skills formatting,Standardized delimiters and labels
+INT-20033,skills,"Python, HTML/CSS, Statistics","Python, Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10088,skills,"Python, HTML/CSS, Statistics, Power BI, Machine Learning, SQL","Python, Html, Css, Statistics, Power BI, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10104,skills,"HTML/CSS, Pandas, Data Visualization, Python","Html, Css, Pandas, Data Visualization, Python",Skills formatting,Standardized delimiters and labels
+INT-10401,skills,"Communication, Git, HTML/CSS, Data Visualization, Statistics, Python","Communication, Git, Html, Css, Data Visualization, Statistics, Python",Skills formatting,Standardized delimiters and labels
+INT-10147,skills,"HTML/CSS, SQL, Excel, Data Visualization","Html, Css, SQL, Excel, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10215,skills,SQL; git,"SQL, Git",Skills formatting,Standardized delimiters and labels
+INT-20006,skills,"Pandas, SQL, Excel, Git, HTML/CSS, Power BI","Pandas, SQL, Excel, Git, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10852,skills,powerbi; Pandas; Git,"Power BI, Pandas, Git",Skills formatting,Standardized delimiters and labels
+INT-10855,skills,Data Visualization; Git; Power BI; HTML/CSS; Machine Learning; Pandas,"Data Visualization, Git, Power BI, Html, Css, Machine Learning, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10060,skills,"Pandas, HTML/CSS, Data Visualization, SQL","Pandas, Html, Css, Data Visualization, SQL",Skills formatting,Standardized delimiters and labels
+INT-10251,skills,"Python, SQL, Communication, Statistics, Git, HTML/CSS","Python, SQL, Communication, Statistics, Git, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10328,skills,"HTML/CSS, Data Visualization, Pandas, Git, Machine Learning, Power BI","Html, Css, Data Visualization, Pandas, Git, Machine Learning, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10753,skills,"HTML/CSS, Power BI, Statistics, Excel","Html, Css, Power BI, Statistics, Excel",Skills formatting,Standardized delimiters and labels
+INT-10557,skills,"Statistics, Power BI, HTML/CSS","Statistics, Power BI, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10360,skills,"Python, SQL, HTML/CSS, Tableau, Statistics, Excel","Python, SQL, Html, Css, Tableau, Statistics, Excel",Skills formatting,Standardized delimiters and labels
+INT-10355,skills,Tableau / html/css / Machine Learning / pandas,"Tableau, Html, Css, Machine Learning, Pandas",Skills formatting,Standardized delimiters and labels
+INT-20028,skills,"SQL, HTML/CSS, Power BI, Machine Learning","SQL, Html, Css, Power BI, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10789,skills,"Pandas, HTML/CSS, Python, Tableau, Statistics","Pandas, Html, Css, Python, Tableau, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10122,skills,"Data Visualization, Statistics, Python, HTML/CSS","Data Visualization, Statistics, Python, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10548,skills,"HTML/CSS, Git, SQL","Html, Css, Git, SQL",Skills formatting,Standardized delimiters and labels
+INT-10747,skills,"Data Visualization, Git, Power BI, Excel, HTML/CSS","Data Visualization, Git, Power BI, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10323,skills,Git; Tableau; Power BI; Pandas; SQL; Excel,"Git, Tableau, Power BI, Pandas, SQL, Excel",Skills formatting,Standardized delimiters and labels
+INT-10524,skills,Python | tableau,"Python, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10495,skills,"SQL, HTML/CSS, Git","SQL, Html, Css, Git",Skills formatting,Standardized delimiters and labels
+INT-10477,skills,"Communication, Excel, SQL, Git, HTML/CSS, Power BI","Communication, Excel, SQL, Git, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10807,skills,HTML/CSS / Data Visualization / SQL / git,"Html, Css, Data Visualization, SQL, Git",Skills formatting,Standardized delimiters and labels
+INT-10022,skills,"Machine Learning, Git, Data Visualization, Tableau, HTML/CSS, Python","Machine Learning, Git, Data Visualization, Tableau, Html, Css, Python",Skills formatting,Standardized delimiters and labels
+INT-10658,skills,"Power BI, Statistics, HTML/CSS","Power BI, Statistics, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10053,skills,"Excel, Data Visualization, Tableau, Communication, HTML/CSS, Machine Learning","Excel, Data Visualization, Tableau, Communication, Html, Css, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10606,skills,"Power BI, Pandas, Communication, HTML/CSS, Excel","Power BI, Pandas, Communication, Html, Css, Excel",Skills formatting,Standardized delimiters and labels
+INT-10393,skills,"Excel, Tableau, HTML/CSS","Excel, Tableau, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10261,skills,"Pandas, Communication, HTML/CSS, Git, Python","Pandas, Communication, Html, Css, Git, Python",Skills formatting,Standardized delimiters and labels
+INT-10163,skills,"HTML/CSS, Python, Excel, SQL","Html, Css, Python, Excel, SQL",Skills formatting,Standardized delimiters and labels
+INT-10675,skills,"SQL, Statistics, Machine Learning, Communication, HTML/CSS, Power BI","SQL, Statistics, Machine Learning, Communication, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10370,skills,"Data Visualization, Statistics, Power BI, Communication, HTML/CSS","Data Visualization, Statistics, Power BI, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-20040,skills,SQL / git / Tableau,"SQL, Git, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10584,skills,"Data Visualization, HTML/CSS, Git, Statistics, Machine Learning","Data Visualization, Html, Css, Git, Statistics, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10414,skills,"Data Visualization, HTML/CSS, Tableau","Data Visualization, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10809,skills,"SQL, HTML/CSS, Power BI, Excel","SQL, Html, Css, Power BI, Excel",Skills formatting,Standardized delimiters and labels
+INT-10366,skills,"Statistics, HTML/CSS, SQL, Communication, Machine Learning, Tableau","Statistics, Html, Css, SQL, Communication, Machine Learning, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10860,skills,Statistics / Git,"Statistics, Git",Skills formatting,Standardized delimiters and labels
+INT-10592,skills,"Power BI, Machine Learning, Git, Statistics, HTML/CSS, Data Visualization","Power BI, Machine Learning, Git, Statistics, Html, Css, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10568,skills,"Statistics, Power BI, HTML/CSS","Statistics, Power BI, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10419,skills,"Machine Learning, Excel, SQL, HTML/CSS","Machine Learning, Excel, SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10291,skills,"Python, HTML/CSS, SQL, Excel, Machine Learning","Python, Html, Css, SQL, Excel, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10541,skills,"Data Visualization, HTML/CSS, Git, SQL, Statistics","Data Visualization, Html, Css, Git, SQL, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10412,skills,"Python, Git, Statistics, Excel, HTML/CSS","Python, Git, Statistics, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10443,skills,"Excel, Power BI, HTML/CSS, Pandas, Communication","Excel, Power BI, Html, Css, Pandas, Communication",Skills formatting,Standardized delimiters and labels
+INT-10308,skills,"SQL, HTML/CSS, Communication","SQL, Html, Css, Communication",Skills formatting,Standardized delimiters and labels
+INT-10857,skills,"HTML/CSS, Communication, Statistics","Html, Css, Communication, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10445,skills,"HTML/CSS, Communication","Html, Css, Communication",Skills formatting,Standardized delimiters and labels
+INT-10531,skills,"Statistics, Python, SQL, Excel, HTML/CSS, Data Visualization","Statistics, Python, SQL, Excel, Html, Css, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10513,skills,"Communication, HTML/CSS, Tableau, Power BI, Pandas","Communication, Html, Css, Tableau, Power BI, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10828,skills,"HTML/CSS, Pandas, Communication, Power BI","Html, Css, Pandas, Communication, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10238,skills,Statistics | sql | Python,"Statistics, SQL, Python",Skills formatting,Standardized delimiters and labels
+INT-10520,skills,"Pandas, Machine Learning, SQL, Data Visualization, Tableau, HTML/CSS","Pandas, Machine Learning, SQL, Data Visualization, Tableau, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10066,skills,Excel / sql / git,"Excel, SQL, Git",Skills formatting,Standardized delimiters and labels
+INT-10453,skills,Machine Learning; html/css; sql; Python; Statistics; communication,"Machine Learning, Html, Css, SQL, Python, Statistics, Communication",Skills formatting,Standardized delimiters and labels
+INT-10055,skills,"HTML/CSS, Data Visualization, Excel, Git","Html, Css, Data Visualization, Excel, Git",Skills formatting,Standardized delimiters and labels
+INT-10278,skills,"Communication, Machine Learning, HTML/CSS, Data Visualization, Excel","Communication, Machine Learning, Html, Css, Data Visualization, Excel",Skills formatting,Standardized delimiters and labels
+INT-10737,skills,"Git, HTML/CSS, Pandas, Tableau, Communication","Git, Html, Css, Pandas, Tableau, Communication",Skills formatting,Standardized delimiters and labels
+INT-10094,skills,"Python, Data Visualization, Statistics, HTML/CSS, Power BI","Python, Data Visualization, Statistics, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10210,skills,"Statistics, Pandas, HTML/CSS, Machine Learning, SQL","Statistics, Pandas, Html, Css, Machine Learning, SQL",Skills formatting,Standardized delimiters and labels
+INT-10192,skills,"Statistics, HTML/CSS, Communication, Pandas","Statistics, Html, Css, Communication, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10151,skills,"Tableau, Excel, HTML/CSS, SQL, Power BI","Tableau, Excel, Html, Css, SQL, Power BI",Skills formatting,Standardized delimiters and labels
+INT-20038,skills,"Data Visualization, Statistics, Power BI, Communication, HTML/CSS","Data Visualization, Statistics, Power BI, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-20015,skills,"Communication, Excel, SQL, Git, HTML/CSS, Power BI","Communication, Excel, SQL, Git, Html, Css, Power BI",Skills formatting,Standardized delimiters and labels
+INT-10765,skills,"Excel, Data Visualization, Pandas, Tableau, SQL, HTML/CSS","Excel, Data Visualization, Pandas, Tableau, SQL, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10005,skills,"Excel, SQL, Data Visualization, HTML/CSS, Tableau","Excel, SQL, Data Visualization, Html, Css, Tableau",Skills formatting,Standardized delimiters and labels
+INT-10799,skills,"Pandas, HTML/CSS, Python, Git, Machine Learning","Pandas, Html, Css, Python, Git, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10534,skills,"Communication, Machine Learning, Excel, HTML/CSS","Communication, Machine Learning, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10038,skills,Data Visualization; Pandas,"Data Visualization, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10039,skills,Tableau; Power BI; Statistics,"Tableau, Power BI, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10517,skills,"HTML/CSS, Power BI, Pandas, Data Visualization","Html, Css, Power BI, Pandas, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10330,skills,"HTML/CSS, Communication, Power BI, Machine Learning, Python","Html, Css, Communication, Power BI, Machine Learning, Python",Skills formatting,Standardized delimiters and labels
+INT-10692,skills,"Git, Machine Learning, HTML/CSS, Tableau, Communication","Git, Machine Learning, Html, Css, Tableau, Communication",Skills formatting,Standardized delimiters and labels
+INT-10793,skills,"Python, HTML/CSS, Statistics","Python, Html, Css, Statistics",Skills formatting,Standardized delimiters and labels
+INT-20001,skills,"Data Visualization, Python, HTML/CSS, Git, Pandas","Data Visualization, Python, Html, Css, Git, Pandas",Skills formatting,Standardized delimiters and labels
+INT-10823,skills,"Statistics, Tableau, Data Visualization, Git, Communication, HTML/CSS","Statistics, Tableau, Data Visualization, Git, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10650,skills,"Machine Learning, Python, Communication, HTML/CSS","Machine Learning, Python, Communication, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10846,skills,"HTML/CSS, Python","Html, Css, Python",Skills formatting,Standardized delimiters and labels
+INT-10287,skills,"HTML/CSS, Data Visualization, Python, Excel, Tableau, SQL","Html, Css, Data Visualization, Python, Excel, Tableau, SQL",Skills formatting,Standardized delimiters and labels
+INT-10369,skills,"HTML/CSS, Python, Tableau, Power BI, Pandas, Machine Learning","Html, Css, Python, Tableau, Power BI, Pandas, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10016,skills,"Pandas, Statistics, Data Visualization, HTML/CSS","Pandas, Statistics, Data Visualization, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10749,skills,Communication; Pandas; Git; machine learning; Excel,"Communication, Pandas, Git, Machine Learning, Excel",Skills formatting,Standardized delimiters and labels
+INT-10757,skills,"Power BI, HTML/CSS, Excel, Communication","Power BI, Html, Css, Excel, Communication",Skills formatting,Standardized delimiters and labels
+INT-10514,skills,"Tableau, Machine Learning, Git, Excel, HTML/CSS","Tableau, Machine Learning, Git, Excel, Html, Css",Skills formatting,Standardized delimiters and labels
+INT-10004,skills,Excel / Data Visualization,"Excel, Data Visualization",Skills formatting,Standardized delimiters and labels
+INT-10754,skills,"Data Visualization, Excel, HTML/CSS, Git, Machine Learning","Data Visualization, Excel, Html, Css, Git, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10483,skills,Data Visualization | Pandas | Tableau | excel | SQL | Statistics,"Data Visualization, Pandas, Tableau, Excel, SQL, Statistics",Skills formatting,Standardized delimiters and labels
+INT-10465,skills,"SQL, Excel, Statistics, Data Visualization, HTML/CSS, Machine Learning","SQL, Excel, Statistics, Data Visualization, Html, Css, Machine Learning",Skills formatting,Standardized delimiters and labels
+INT-10734,skills,"HTML/CSS, Power BI, Git, Excel, SQL","Html, Css, Power BI, Git, Excel, SQL",Skills formatting,Standardized delimiters and labels
+INT-10623,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10148,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10504,city,,Hyderabad,Missing value,Imputed province mode
+INT-10694,university,,Not Provided,Missing value,Filled explicit category
+INT-10694,cgpa,,3.09,Missing value,Imputed valid median
+INT-10646,skills,,Not Specified,Missing value,Filled explicit category
+INT-10646,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10040,phone,,Not Provided,Missing value,Filled explicit category
+INT-10091,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10837,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10767,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10381,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10712,university,,Not Provided,Missing value,Filled explicit category
+INT-10657,phone,,Not Provided,Missing value,Filled explicit category
+INT-10179,cgpa,,3.09,Missing value,Imputed valid median
+INT-20024,city,,Faisalabad,Missing value,Imputed province mode
+INT-10309,cgpa,,3.09,Missing value,Imputed valid median
+INT-10701,university,,Not Provided,Missing value,Filled explicit category
+INT-10028,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10707,phone,,Not Provided,Missing value,Filled explicit category
+INT-10784,university,,Not Provided,Missing value,Filled explicit category
+INT-10255,university,,Not Provided,Missing value,Filled explicit category
+INT-10402,university,,Not Provided,Missing value,Filled explicit category
+INT-10180,skills,,Not Specified,Missing value,Filled explicit category
+INT-10551,cgpa,,3.09,Missing value,Imputed valid median
+INT-10368,city,,Faisalabad,Missing value,Imputed province mode
+INT-10162,skills,,Not Specified,Missing value,Filled explicit category
+INT-10231,university,,Not Provided,Missing value,Filled explicit category
+INT-10229,phone,,Not Provided,Missing value,Filled explicit category
+INT-10616,skills,,Not Specified,Missing value,Filled explicit category
+INT-10744,phone,,Not Provided,Missing value,Filled explicit category
+INT-10475,cgpa,,3.09,Missing value,Imputed valid median
+INT-10042,skills,,Not Specified,Missing value,Filled explicit category
+INT-10619,skills,,Not Specified,Missing value,Filled explicit category
+INT-10325,cgpa,,3.09,Missing value,Imputed valid median
+INT-10325,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10697,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10668,cgpa,,3.09,Missing value,Imputed valid median
+INT-10247,city,,Faisalabad,Missing value,Imputed province mode
+INT-10059,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10817,skills,,Not Specified,Missing value,Filled explicit category
+INT-10724,university,,Not Provided,Missing value,Filled explicit category
+INT-10191,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10516,phone,,Not Provided,Missing value,Filled explicit category
+INT-10102,phone,,Not Provided,Missing value,Filled explicit category
+INT-10637,skills,,Not Specified,Missing value,Filled explicit category
+INT-10235,university,,Not Provided,Missing value,Filled explicit category
+INT-10207,city,,Hyderabad,Missing value,Imputed province mode
+INT-10797,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10590,city,,Islamabad,Missing value,Imputed province mode
+INT-10700,skills,,Not Specified,Missing value,Filled explicit category
+INT-10732,phone,,Not Provided,Missing value,Filled explicit category
+INT-10124,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10294,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10294,phone,,Not Provided,Missing value,Filled explicit category
+INT-10631,skills,,Not Specified,Missing value,Filled explicit category
+INT-10500,cgpa,,3.09,Missing value,Imputed valid median
+INT-20009,city,,Faisalabad,Missing value,Imputed province mode
+INT-10451,phone,,Not Provided,Missing value,Filled explicit category
+INT-10121,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10316,phone,,Not Provided,Missing value,Filled explicit category
+INT-10226,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10714,cgpa,,3.09,Missing value,Imputed valid median
+INT-10388,city,,Faisalabad,Missing value,Imputed province mode
+INT-10638,city,,Hyderabad,Missing value,Imputed province mode
+INT-10134,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10232,university,,Not Provided,Missing value,Filled explicit category
+INT-10129,phone,,Not Provided,Missing value,Filled explicit category
+INT-10379,cgpa,,3.09,Missing value,Imputed valid median
+INT-10738,city,,Faisalabad,Missing value,Imputed province mode
+INT-10188,phone,,Not Provided,Missing value,Filled explicit category
+INT-10716,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10438,university,,Not Provided,Missing value,Filled explicit category
+INT-10461,phone,,Not Provided,Missing value,Filled explicit category
+INT-10015,city,,Faisalabad,Missing value,Imputed province mode
+INT-10615,university,,Not Provided,Missing value,Filled explicit category
+INT-10390,university,,Not Provided,Missing value,Filled explicit category
+INT-10337,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10644,phone,,Not Provided,Missing value,Filled explicit category
+INT-10243,skills,,Not Specified,Missing value,Filled explicit category
+INT-10442,city,,Hyderabad,Missing value,Imputed province mode
+INT-10645,university,,Not Provided,Missing value,Filled explicit category
+INT-10645,cgpa,,3.09,Missing value,Imputed valid median
+INT-10324,skills,,Not Specified,Missing value,Filled explicit category
+INT-10801,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10305,skills,,Not Specified,Missing value,Filled explicit category
+INT-10581,phone,,Not Provided,Missing value,Filled explicit category
+INT-10032,city,,Hyderabad,Missing value,Imputed province mode
+INT-10032,university,,Not Provided,Missing value,Filled explicit category
+INT-10032,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10539,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10358,phone,,Not Provided,Missing value,Filled explicit category
+INT-10721,skills,,Not Specified,Missing value,Filled explicit category
+INT-10387,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10315,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10205,city,,Faisalabad,Missing value,Imputed province mode
+INT-10158,skills,,Not Specified,Missing value,Filled explicit category
+INT-10064,city,,Faisalabad,Missing value,Imputed province mode
+INT-10263,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10397,city,,Hyderabad,Missing value,Imputed province mode
+INT-10515,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10859,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10161,phone,,Not Provided,Missing value,Filled explicit category
+INT-10569,skills,,Not Specified,Missing value,Filled explicit category
+INT-10518,university,,Not Provided,Missing value,Filled explicit category
+INT-10293,city,,Faisalabad,Missing value,Imputed province mode
+INT-10088,gender,,Prefer not to say,Missing value,Filled with neutral category
+INT-10171,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10104,university,,Not Provided,Missing value,Filled explicit category
+INT-10573,phone,,Not Provided,Missing value,Filled explicit category
+INT-10430,cgpa,,3.09,Missing value,Imputed valid median
+INT-10430,phone,,Not Provided,Missing value,Filled explicit category
+INT-10604,cgpa,,3.09,Missing value,Imputed valid median
+INT-10753,university,,Not Provided,Missing value,Filled explicit category
+INT-10490,phone,,Not Provided,Missing value,Filled explicit category
+INT-10122,university,,Not Provided,Missing value,Filled explicit category
+INT-10495,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10477,phone,,Not Provided,Missing value,Filled explicit category
+INT-10807,city,,Hyderabad,Missing value,Imputed province mode
+INT-10606,university,,Not Provided,Missing value,Filled explicit category
+INT-10675,cgpa,,3.09,Missing value,Imputed valid median
+INT-10834,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10821,skills,,Not Specified,Missing value,Filled explicit category
+INT-10688,university,,Not Provided,Missing value,Filled explicit category
+INT-10242,city,,Hyderabad,Missing value,Imputed province mode
+INT-10218,phone,,Not Provided,Missing value,Filled explicit category
+INT-10541,university,,Not Provided,Missing value,Filled explicit category
+INT-10362,phone,,Not Provided,Missing value,Filled explicit category
+INT-10613,city,,Islamabad,Missing value,Imputed province mode
+INT-10462,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10270,university,,Not Provided,Missing value,Filled explicit category
+INT-10848,skills,,Not Specified,Missing value,Filled explicit category
+INT-10470,skills,,Not Specified,Missing value,Filled explicit category
+INT-10284,skills,,Not Specified,Missing value,Filled explicit category
+INT-10284,phone,,Not Provided,Missing value,Filled explicit category
+INT-10520,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10599,phone,,Not Provided,Missing value,Filled explicit category
+INT-10055,cgpa,,3.09,Missing value,Imputed valid median
+INT-10342,skills,,Not Specified,Missing value,Filled explicit category
+INT-10635,skills,,Not Specified,Missing value,Filled explicit category
+INT-10094,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10829,university,,Not Provided,Missing value,Filled explicit category
+INT-10486,cgpa,,3.09,Missing value,Imputed valid median
+INT-10486,phone,,Not Provided,Missing value,Filled explicit category
+INT-10486,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-20015,phone,,Not Provided,Missing value,Filled explicit category
+INT-10052,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10204,skills,,Not Specified,Missing value,Filled explicit category
+INT-20001,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10757,phone,,Not Provided,Missing value,Filled explicit category
+INT-10622,linkedin_url,,Not Provided,Missing value,Filled explicit category
+INT-10354,skills,,Not Specified,Missing value,Filled explicit category
+INT-10588,expected_stipend_pkr,250000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10743,expected_stipend_pkr,500000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10177,age,16,25,Outlier/invalid numeric,Replaced with valid median
+INT-20035,expected_stipend_pkr,-10000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10695,age,15,25,Outlier/invalid numeric,Replaced with valid median
+INT-10814,expected_stipend_pkr,250000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10564,cgpa,5.2,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10596,cgpa,4.8,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10403,experience_months,-6,9,Outlier/invalid numeric,Replaced with valid median
+INT-10563,cgpa,-0.5,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10667,experience_months,180,9,Outlier/invalid numeric,Replaced with valid median
+INT-10051,age,15,25,Outlier/invalid numeric,Replaced with valid median
+INT-10751,cgpa,-0.5,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10126,cgpa,4.8,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10219,age,52,25,Outlier/invalid numeric,Replaced with valid median
+INT-10072,expected_stipend_pkr,250000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10459,experience_months,-6,9,Outlier/invalid numeric,Replaced with valid median
+INT-10201,expected_stipend_pkr,-10000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10438,experience_months,-6,9,Outlier/invalid numeric,Replaced with valid median
+INT-10015,expected_stipend_pkr,0,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10248,age,52,25,Outlier/invalid numeric,Replaced with valid median
+INT-10644,age,58,25,Outlier/invalid numeric,Replaced with valid median
+INT-10661,expected_stipend_pkr,500000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10569,experience_months,180,9,Outlier/invalid numeric,Replaced with valid median
+INT-10406,experience_months,180,9,Outlier/invalid numeric,Replaced with valid median
+INT-10251,cgpa,5.2,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10573,age,15,25,Outlier/invalid numeric,Replaced with valid median
+INT-10331,age,16,25,Outlier/invalid numeric,Replaced with valid median
+INT-10048,experience_months,-6,9,Outlier/invalid numeric,Replaced with valid median
+INT-10110,cgpa,5.2,3.09,Outlier/invalid numeric,Replaced with valid median
+INT-10347,expected_stipend_pkr,500000,30000,Outlier/invalid numeric,Replaced with valid median
+INT-10354,experience_months,180,9,Outlier/invalid numeric,Replaced with valid median
+INT-20003,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20007,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10441,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20019,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10317,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10247,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10296,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20029,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10525,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20032,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10736,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10201,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10485,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20008,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10173,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10208,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10457,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20017,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20021,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20031,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10293,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10488,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20006,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20028,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20012,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10603,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20022,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10083,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10669,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20040,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10175,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10181,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20030,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20038,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20015,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10312,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10793,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20001,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-10846,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
+INT-20027,record,duplicate row,removed,Duplicate record,Removed duplicate after normalized identity match
